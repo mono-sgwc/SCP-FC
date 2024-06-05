@@ -99,7 +99,7 @@ end
 ### Large image
 
 <p align="center">
- <img width="250" src="https://github.com/raven-sgwc/raven-sgwc/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+ <img width="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG12krxohvAVdgysA-9oDlRkQiiVeKRdgohw&s" alt="test"/>
 </p>
 
 
