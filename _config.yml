@@ -6,6 +6,4 @@ plugins:
 - jekyll-remote-theme 
 github:
   zip_url: Null
-  tar_gz_url: http://example.com/download.zip
-  tar.gz_url: http://example.com/download.zip
-  tarball_url: http://example.com/download.zip
+  tar_url: http://example.com/download.zip
