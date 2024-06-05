@@ -98,7 +98,9 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<p align="center">
+ <img width="1000" src="https://github.com/raven-sgwc/raven-sgwc/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 
 
 ### Definition lists can be used with HTML syntax.

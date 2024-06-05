@@ -1,5 +1,4 @@
 title: test title
-logo: /assets/img/logo.png
 description: test descr.
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
