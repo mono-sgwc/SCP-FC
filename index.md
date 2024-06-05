@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<html lang="en">
+	<head>
+		<title>404 Not Found</title>
+		<link rel="manifest" href="manifest.json">
+		<link rel="stylesheet" href="style.css">
+		<link rel="apple-touch-icon" href="Assets/icon-192.png">
+		<link rel="icon" href="Assets/favicon.ico" type="image/x-icon">
+	</head>
+</html>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
