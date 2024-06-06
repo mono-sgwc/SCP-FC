@@ -7,4 +7,3 @@ plugins:
 github:
   zip_url: http://example.com/download.zip
   tar_url: http://example.com/download.zip
-  github_url: http://example.com/github
