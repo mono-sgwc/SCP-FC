@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the SCP: Foundation Chronicles Beta Wiki!</h1>
+<h1 align="center">BETA WIKI INVENTORY</h1>
 
 Here are all sites listed, that are in this Wiki
 
