@@ -1,11 +1,13 @@
 <h1 align="center">Welcome to the SCP: Foundation Chronicles Beta Wiki!</h1>
-<h1 align="center">![wiki thumbnail](https://raven-sgwc.github.io/SCP-FC/assets/images/BETA_WIKI.png)</h1>
+<p align="center">
+ <img width="1000" src="https://raven-sgwc.github.io/SCP-FC/assets/images/BETA_WIKI.png" alt="beta_wiki"/>
+</p>
 
 Your Ultimate Guide to the SCP Universe
 
-
-
 We're a collaborative community website about SCP: Foundation Chronicles that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Click on "pull request" and then on "new pull request" button at the top of the page to get started!
+
+Official default wiki: https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki
 
 # Important Articles
 
