@@ -12,7 +12,6 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 ```
 https://raven-sgwc.github.io/SCP-FC/web/tree.html
 ```
-https://raven-sgwc.github.io/SCP-FC/
 # Whats new
 
 List of all websites, `Whats new` and SCP-330 entry
