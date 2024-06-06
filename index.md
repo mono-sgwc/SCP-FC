@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">Welcome to the SCP: Foundation Chronicles Beta Wiki!</h1>
 
-[Official Regular Wiki: ](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
-[https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
 
 Your Ultimate Guide to the SCP Universe
 
@@ -14,7 +12,7 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 ```
 https://raven-sgwc.github.io/SCP-FC/web/tree.html
 ```
-
+https://raven-sgwc.github.io/SCP-FC/
 # Whats new
 
 List of all websites, `Whats new` and SCP-330 entry
@@ -30,3 +28,9 @@ List of all websites, `Whats new` and SCP-330 entry
 |---|---|---|
 | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="150" height="150"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="150" height="150"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="150" height="150"/> |
 | An Important Location | A Key Event | A Crucial Item |
+
+# REGULAR WIKI
+
+[Official Regular Wiki: ](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
+
+[https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
