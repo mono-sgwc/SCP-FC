@@ -8,6 +8,15 @@ Here are all sites listed, that are in this Wiki
 | --- | --- | --- | --- |
 | [SCP-330](https://raven-sgwc.github.io/SCP-FC/web/scp/330.html) | SCP | <span style="color: green">SAFE</span> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/items/scp-330.png" title="icon"  alt="icon" width="50" height="50"/> |
 
+
+# CATEGORIES
+
+| <span style="color: cyan">CAT</span>EGORY | ENTRIES |
+| --- | --- |
+| [SCP's](#scps) | 1 |
+| [CHARACTERS](#characters) | 0 | 
+
+
 # SCP's
 
 ## <span style="color: green">SAFE</span>
@@ -27,3 +36,9 @@ Here are all sites listed, that are in this Wiki
 | ENTRY ITEM | WARNING | IMAGE |
 | --- | --- | --- |
 | █████ | █████ | █████ |
+
+# CHARACTERS
+
+| █████ | █████ | █████ | █████ | █████ |
+| --- | --- | --- | --- | --- |
+| █████ | █████ | █████ | █████ | █████ |
