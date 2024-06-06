@@ -19,7 +19,7 @@ Here are all sites listed, that are in this Wiki
 
 # SCP's
 
-## <span style="color: green">SAFE</span>
+## <span style="color: grey">SAFE</span>
 
 | ENTRY ITEM | WARNING | IMAGE |
 | --- | --- | --- |
