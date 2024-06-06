@@ -4,6 +4,26 @@ Here are all sites listed, that are in this Wiki
 
 # NEW
 
-| Entry Item | Type | Class | Image |
+| ENTRY ITEM | TYPE | CLASS | IMAGE |
 | --- | --- | --- | --- |
-| SCP-330 | SCP | <span style="color: green">Safe</span> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/items/scp-330.png" title="icon"  alt="icon" width="50" height="50"/> |
+| SCP-330 | SCP | <span style="color: green">SAFE</span> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/items/scp-330.png" title="icon"  alt="icon" width="50" height="50"/> |
+
+# SCP's
+
+## <span style="color: green">SAFE</span>
+
+| ENTRY ITEM | WARNING | IMAGE |
+| --- | --- | --- | --- |
+| SCP-330 | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/items/scp-330.png" title="icon"  alt="icon" width="50" height="50"/> |
+
+## <span style="color: yellow">EUCLID</span>
+
+| ENTRY ITEM | WARNING | CLASS | IMAGE |
+| --- | --- | --- | --- |
+| █████ | █████ | █████ | █████ |
+
+## <span style="color: red">KETER</span>
+
+| ENTRY ITEM | WARNING | CLASS | IMAGE |
+| --- | --- | --- | --- |
+| █████ | █████ | █████ | █████ |
