@@ -3,13 +3,21 @@
 </p>
 <h1 align="center">Welcome to the SCP: Foundation Chronicles Beta Wiki!</h1>
 
+[Official Regular Wiki: ](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
+[https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
 
 Your Ultimate Guide to the SCP Universe
 
 We're a collaborative community website about SCP: Foundation Chronicles that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Click on "pull request" and then on "new pull request" button at the top of the github repo page to get started!
 
-[Official default wiki: ](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
-[https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
+[All Pages that are in this wiki can be found here:](https://raven-sgwc.github.io/SCP-FC/web/tree.html) 
+```
+https://raven-sgwc.github.io/SCP-FC/web/tree.html
+```
+
+# Whats new
+
+List of all websites, `Whats new` and SCP-330 entry
 
 # Important Articles
 
