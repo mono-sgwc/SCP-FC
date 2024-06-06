@@ -1,7 +1,8 @@
-<h1 align="center">Welcome to the SCP: Foundation Chronicles Beta Wiki!</h1>
 <p align="center">
- <img width="1000" src="https://raven-sgwc.github.io/SCP-FC/assets/images/BETA_WIKI.png" alt="beta_wiki"/>
+ <img width="250" src="https://raven-sgwc.github.io/SCP-FC/assets/images/BETA_WIKI.png" alt="beta_wiki"/>
 </p>
+<h1 align="center">Welcome to the SCP: Foundation Chronicles Beta Wiki!</h1>
+
 
 Your Ultimate Guide to the SCP Universe
 
