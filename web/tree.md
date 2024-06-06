@@ -20,13 +20,13 @@ Here are all sites listed, that are in this Wiki
 
 # SCP's
 
-## <span style="color: gren">SAFE</span>
+## <span style="color: green">SAFE</span>
 
 | ENTRY ITEM | WARNING | IMAGE |
 | --- | --- | --- |
 | [SCP-330](https://raven-sgwc.github.io/SCP-FC/web/scp/330.html) | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/items/scp-330.png" title="icon"  alt="icon" width="50" height="50"/> |
 
-## <span style="color: yellow3">EUCLID</span>
+## <span style="color: yellow">EUCLID</span>
 
 | ENTRY ITEM | WARNING | IMAGE |
 | --- | --- | --- |
