@@ -21,7 +21,7 @@ List of all websites, `Whats new` and SCP-330 entry
 | [SCP-330](https://raven-sgwc.github.io/SCP-FC/web/scp/330.html) | Placeholder | Placeholder |
 |---|---|---|
 | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/items/scp-330.png" title="scp-330"  alt="icon" width="150" height="150"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="150" height="150"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="150" height="150"/> |
-| Aka <span style:"color: red">take two</span> | A Main Character | The First Episode |
+| Aka <span style="color: red">Take two</span> | A Main Character | The First Episode |
 
 | Placeholder | Placeholder | Placeholder |
 |---|---|---|
