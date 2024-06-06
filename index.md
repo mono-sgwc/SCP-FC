@@ -15,8 +15,10 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 | Placeholder | Placeholder | Placeholder |
 |---|---|---|
+| <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="75" height="75"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="75" height="75"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="75" height="75"/> |
 | A page about your topic | A Main Character | The First Episode |
 
 | Placeholder | Placeholder | Placeholder |
 |---|---|---|
+| <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="75" height="75"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="75" height="75"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon"  alt="icon" width="75" height="75"/> |
 | An Important Location | A Key Event | A Crucial Item |
