@@ -1,2 +1,2 @@
 # SCP-FC
-The Official GitHub Repo of the game SCP: Foundation Chronicles. Mainly used as Wiki.
+The Official GitHub Repo of the game SCP: Foundation Chronicles. Mainly used as Beta Wiki.
