@@ -5,7 +5,7 @@ Your Ultimate Guide to the SCP Universe
 
 
 
-We're a collaborative community website about SCP: Foundation Chronicles that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Click the "ADD NEW PAGE" or "EDIT" button at the top of any page to get started!
+We're a collaborative community website about SCP: Foundation Chronicles that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Click on "pull request" and then on "new pull request" button at the top of the page to get started!
 
 # Important Articles
 
