@@ -8,7 +8,7 @@ Your Ultimate Guide to the SCP Universe
 
 We're a collaborative community website about SCP: Foundation Chronicles that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Click on "pull request" and then on "new pull request" button at the top of the github repo page to get started!
 
-![inventory](https://img.shields.io/badge/All_Entries-000000?style=for-the-badge&labelColor=ffffff&color=ffffff&link=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC%2Fweb%2Ftree&link=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC%2Fweb%2Ftree)
+[![inventory](https://img.shields.io/badge/All_Entries-000000?style=for-the-badge&labelColor=ffffff&color=ffffff)](./web/tree)
 
 
 # Whats new
@@ -33,4 +33,4 @@ List of all websites, `Whats new` and SCP-330 entry
 
 Official Regular Wiki:
 
-![SCP:FC WIKI](https://img.shields.io/badge/go%20back%20home-000000?style=for-the-badge&labelColor=ffffff&color=ffffff&link=https%3A%2F%2Fscp-fc.fandom.com%2Fwiki&2FSCP&3A_Foundation_Chronicles_Wiki&link=https%3A%2F%2Fscp-fc.fandom.com%2Fwiki&2FSCP&3A_Foundation_Chronicles_Wiki)
+[![SCP:FC WIKI](https://img.shields.io/badge/Released_Wiki-000000?style=for-the-badge&labelColor=ffffff&color=ffffff)](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
