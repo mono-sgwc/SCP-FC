@@ -1,7 +1,7 @@
 [![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge)](https://raven-sgwc.github.io/SCP-FC/)
 <h1 align="center">BETA WIKI INVENTORY</h1>
 
-[![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?path=.%2Fweb%2Ftree.md&style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)](https://raven-sgwc.github.io/SCP-FC/web/tree)
+![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?path=.%2Fweb%2Ftree.md&style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
 
 Here are all sites listed, that are in this Wiki
 
