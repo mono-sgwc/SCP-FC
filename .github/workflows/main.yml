@@ -18,7 +18,7 @@ jobs:
       - name: Check commit messages
         id: check_commit_messages
         run: |
-          if git log -1 --pretty=format:'%s' | grep -q '^!'; then
+          if git log -1 --pretty=format:'%s' | grep -q '^Release'; then
             echo "Commit message matches prefix."
             echo "::set-output name=send_message::true"
           else
@@ -30,5 +30,5 @@ jobs:
         run: |
           curl -H "Content-Type: application/json" \
           -X POST \
-          -d "{\"content\": \"A new Update has been Published to the [Beta Wiki](https://raven-sgwc.github.io/SCP-FC). \nRelease Note: '${{ env.commit_message }}'\"}" \
+          -d "{\"content\": \"A new Update has been Published to the [Beta Wiki](https://raven-sgwc.github.io/SCP-FC). \nRelease Note: ${{ env.commit_message }}\"}" \
           ${{ secrets.DISCORD_WEBHOOK_URL }}
