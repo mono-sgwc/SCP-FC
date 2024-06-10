@@ -1,0 +1,34 @@
+name: Send Discord Notification
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+    # Customize to your needs
+jobs:
+  discord_notification:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Check commit messages
+        id: check_commit_messages
+        run: |
+          if git log -1 --pretty=format:'%s' | grep -q '^!'; then
+            echo "Commit message matches prefix."
+            echo "::set-output name=send_message::true"
+          else
+            echo "::set-output name=send_message::false"
+          fi
+
+      - name: Send Discord notification
+        if: steps.check_commit_messages.outputs.send_message == 'true'
+        run: |
+          curl -H "Content-Type: application/json" \
+          -X POST \
+          -d "{\"content\": \"A new Update has been Published to the [Beta Wiki](https://raven-sgwc.github.io/SCP-FC). Release Note: '${{ steps.check_commit_messages.outputs.commit_message }}'\"}" \
+          ${{ secrets.DISCORD_WEBHOOK_URL }}
