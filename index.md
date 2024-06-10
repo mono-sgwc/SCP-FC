@@ -13,7 +13,7 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 # Whats new
 
-![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
+![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&link=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
 
 Navigation buttons
 
