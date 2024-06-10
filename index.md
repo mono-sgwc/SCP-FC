@@ -23,10 +23,10 @@ List of all websites, `Whats new` and SCP-330 entry
 [![inventory](https://img.shields.io/badge/All_Entries-000000?style=for-the-badge&labelColor=ffffff&color=ffffff)](./web/tree)
 
 
-| [SCP-330](https://raven-sgwc.github.io/SCP-FC/web/scp/330) | [Characters](https://raven-sgwc.github.io/SCP-FC/web/tree#characters) | Placeholder |
+| [SCP-330](https://raven-sgwc.github.io/SCP-FC/web/scp/330) | [Characters](https://raven-sgwc.github.io/SCP-FC/web/tree#characters) | [Janitor](./web/characters/janitor) |
 |---|---|---|
-| <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/items/scp-330.png" title="SCP-330" width="150" height="150"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/thumbnail/Characters.webp" title="Characters" width="150" height="150"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/logo.png" title="icon" width="150" height="150"/> |
-| Aka <span style="color: red">Take two</span> | A Main Character | The First Episode |
+| <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/items/scp-330.png" title="SCP-330" width="150" height="150"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/thumbnail/Characters.webp" title="Characters" width="150" height="150"/> | <img src="./web/characters/assets/images/cleaner.jpg" title="Janitor" width="150" height="150"/> |
+| Aka <span style="color: red">Take two</span> | Characters | The Janitor |
 
 | Placeholder | Placeholder | Placeholder |
 |---|---|---|
