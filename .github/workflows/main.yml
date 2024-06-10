@@ -30,5 +30,5 @@ jobs:
         run: |
           curl -H "Content-Type: application/json" \
           -X POST \
-          -d "{\"content\": \"A new Update has been Published to the [Beta Wiki](https://raven-sgwc.github.io/SCP-FC). \nRelease Note: '${{ steps.check_commit_messages.outputs.commit_message }}\"}" \
+          -d "{\"content\": \"A new Update has been Published to the [Beta Wiki](https://raven-sgwc.github.io/SCP-FC). \nRelease Note: '${{ env.commit_message }}'\"}" \
           ${{ secrets.DISCORD_WEBHOOK_URL }}
