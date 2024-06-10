@@ -18,7 +18,7 @@ jobs:
       - name: Check commit messages
         id: check_commit_messages
         run: |
-          if git log -1 --pretty=format:'%s' | grep -q '^Release'; then
+          if git log -1 --pretty=format:'%s' | grep -q '^!'; then
             echo "Commit message matches prefix."
             echo "::set-output name=send_message::true"
           else
