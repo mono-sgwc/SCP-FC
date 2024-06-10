@@ -3,29 +3,11 @@ author: "RAVFEN"
 avatar: "https://raven-sgwc.github.io/SCP-FC/assets/images/BETA_WIKI.png"
 round-avatar: true
 title-on-all-pages: true
-# Add a search button to the navbar
 post_search: true
-# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
-
-#exclude:
-#  - CHANGELOG.md
-#  - CNAME
-#  - Gemfile
-#  - Gemfile.lock
-#  - LICENSE
-#  - README.md
-#  - screenshot.png
-#  - docs/
-
 description: "Official beta wiki of SCP: Foundation Cronicles"
-
-#show_downloads: False
-
-
+show_downloads: False
 remote_theme: pages-themes/hacker@v0.2.0
-
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
