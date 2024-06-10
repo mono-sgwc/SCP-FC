@@ -9,7 +9,7 @@ Here are all sites listed, that are in this Wiki
 
 | ENTRY ITEM | TYPE | CLASS | IMAGE |
 | --- | --- | --- | --- |
-| [JANITOR](./characters/janitor) | <span style="color: red">HUMAN?</span> | <span style="color: green">CLASS-C</span> | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | <img src="./characters/assets/images/cleaner.jpg" title="Janitor" width="50" height="50"/> |
+| [JANITOR](./characters/janitor) | <span style="color: red">HUMAN?</span> | <span style="color: green">CLASS-C</span> | <img src="./characters/assets/images/cleaner.jpg" title="Janitor" width="50" height="50"/> |
 | [SCP-330](https://raven-sgwc.github.io/SCP-FC/web/scp/330) | SCP | <span style="color: green">SAFE</span> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/items/scp-330.png" title="SCP-330" width="50" height="50"/> |
 
 
