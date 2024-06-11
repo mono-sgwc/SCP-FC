@@ -3,8 +3,6 @@
 
 <h1 align="center">JANITOR</h1>
 
-![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?path=.%2Fweb%2Fcharacters%2Fjanitor.md&style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
-
 # EMPLOYEE FILE
 
 ```
@@ -46,3 +44,5 @@ iLBI7XmJveFHsaduiuiaw3zhjVb0VDIwbr22qfhRtPB
 
 [![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge)](https://raven-sgwc.github.io/SCP-FC/)
 [![BACK](https://img.shields.io/badge/GO_TO-INVENTORY-ffffff?style=for-the-badge)](https://raven-sgwc.github.io/SCP-FC/web/tree)
+
+![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?path=.%2Fweb%2Fcharacters%2Fjanitor.md&style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)

@@ -10,10 +10,9 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 <iframe src="https://ptb.discord.com/widget?id=1166418158085734441&theme=dark" width="600" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-
 # Whats new
 
-![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&link=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
+██████████ entry
 
 Janitor entry
 
@@ -41,3 +40,5 @@ List of all websites, `Whats new` and SCP-330 entry
 Official Regular Wiki:
 
 [![SCP:FC WIKI](https://img.shields.io/badge/Released_Wiki-000000?style=for-the-badge&labelColor=ffffff&color=ffffff)](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
+
+![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&link=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)

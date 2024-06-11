@@ -1,8 +1,6 @@
 [![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge)](https://raven-sgwc.github.io/SCP-FC/)
 <h1 align="center">BETA WIKI INVENTORY</h1>
 
-![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?path=.%2Fweb%2Ftree.md&style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
-
 Here are all sites listed, that are in this Wiki
 
 # NEW
@@ -48,3 +46,5 @@ Here are all sites listed, that are in this Wiki
 | [JANITOR](./characters/janitor) | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | <img src="./characters/assets/images/cleaner.jpg" title="Janitor" width="50" height="50"/> | █████ | █████ | █████ |
 
 [![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge)](https://raven-sgwc.github.io/SCP-FC/)
+
+![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?path=.%2Fweb%2Ftree.md&style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
