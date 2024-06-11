@@ -30,8 +30,7 @@ iLBI7XmJveFHsaduiuiaw3zhjVb0VDIwbr22qfhRtPB
 | RANDOM CARD | ??? | a6Pn4yf7NBLTlBM/le | br232qfhRt | l0eCbzssaiGzWi |
 
 <p align="center">
-    <a href="./uborschick">
-        <img src="../../../assets/images/characters/SCP_Researcher.jpg" title="SCP-Researcher" height="750"/></a>
+    <img src="../../../assets/images/characters/SCP_Researcher.jpg" title="SCP-Researcher" height="750"/>
 </p>
 <p align=center>
     <a href="../../../index">
