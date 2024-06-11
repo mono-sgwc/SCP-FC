@@ -18,6 +18,8 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 # Whats new
 
+SCP-035 Entry
+
 Goc entry
 
 head of security entry
@@ -25,8 +27,6 @@ head of security entry
 SCP-Researcher entry
 
 Event entry
-
-██████████ entry
 
 # Important Articles
 <a href="./web/tree">

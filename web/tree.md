@@ -16,11 +16,11 @@ Here are all sites listed, that are in this Wiki
 
 | ENTRY ITEM | TYPE | CLASS | IMAGE |
 | --- | --- | --- | --- |
+| <a href="./scp/keter/035">SCP-035</a> | SCP | <span style="color: red">KETER</span> | <img src="../assets/images/scp/keter/SCP_035_Human.jpg" title="SCP-035" width="50"/> |
 | <a href="./humans/other/goc">GOC SOLDIER</a> | <span style="color: green">HUMAN</span> | <span style="color: yellow">GOC</span> | <img src="../assets/images/characters/GOC.png" width="50" title="GOC"/> |
 | <a href="./humans/foundation/gensecurity">HEAD OF SECURITY</a> | <span style="color: green">HUMAN</span> | <span style="color: green">CLASS-B</span> | <img src="../assets/images/characters/GenSecurity.png" width="50" title="Head of security"/> |
 | <a href="./humans/foundation/scp-researcher">SCP-RESEARCHER</a> | <span style="color: green">HUMAN</span> | <span style="color: green">CLASS-B</span> | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50" title="scp-researcher"/> |
 | <a href="./events/cuthands">CUT HANDS</a> | <span style="color:red">EVENT</span> | <span style="color:red">CRITICAL</span> | <img src="../assets/images/events/eventCutHands.png" width="50" height="50" title="Cut hands"/> |
-| <a href="./humans/foundation/janitor">JANITOR</a> | <span style="color: red">HUMAN?</span> | <span style="color: green">CLASS-C</span> | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> |
 
 # CATEGORIES
 
@@ -49,7 +49,7 @@ Here are all sites listed, that are in this Wiki
 
 | ENTRY ITEM | WARNING | IMAGE |
 | --- | --- | --- |
-| █████ | █████ | █████ |
+| <a href="./scp/keter/035">SCP-035</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | <img src="../assets/images/scp/keter/SCP_035_Human.jpg" title="SCP-035" width="50"/> |
 
 # CHARACTERS
 
