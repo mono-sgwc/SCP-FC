@@ -1,4 +1,3 @@
-</p>
 <p align=center>
     <a href="./web/tree">
         <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/>
@@ -14,9 +13,13 @@ Your Ultimate Guide to the SCP Universe
 
 We're a collaborative community website about SCP: Foundation Chronicles that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Click on "pull request" and then on "new pull request" button at the top of the github repo page to get started!
 
-<iframe src="https://ptb.discord.com/widget?id=1166418158085734441&theme=dark" width="600" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<p align="center">
+    <iframe src="https://ptb.discord.com/widget?id=1166418158085734441&theme=dark" width="600" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</p>
 
 # Whats new
+
+Event entry
 
 ██████████ entry
 
