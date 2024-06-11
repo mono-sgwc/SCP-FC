@@ -1,5 +1,18 @@
-[![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://raven-sgwc.github.io/SCP-FC/)
-<h1 align="center">BETA WIKI INVENTORY</h1>
+<p align="center">
+    <a href="../index">
+        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/>
+    </a>
+    <a href="./tree#scps">
+        <img src="https://img.shields.io/badge/SCP'S-000000?style=for-the-badge" title="SCP's"/>
+    </a>
+    <a href="./tree#characters">
+        <img src="https://img.shields.io/badge/CHARACTERS-ffffff?style=for-the-badge" title="Characters"/>
+    </a>
+    <a href="./tree#events">
+        <img src="https://img.shields.io/badge/EVENTS-000000?style=for-the-badge" title="Events"/>
+    </a>
+</p>
+<h1 align="center">BETA WIKI ENTRIES</h1>
 
 Here are all sites listed, that are in this Wiki
 
@@ -7,16 +20,17 @@ Here are all sites listed, that are in this Wiki
 
 | ENTRY ITEM | TYPE | CLASS | IMAGE |
 | --- | --- | --- | --- |
-| [JANITOR](./humans/foundation/janitor) | <span style="color: red">HUMAN?</span> | <span style="color: green">CLASS-C</span> | <img src="./humans/foundation/img/cleaner.jpg" title="Janitor" width="50" height="73"/> |
-| [SCP-330](./scp/safe/330) | SCP | <span style="color: green">SAFE</span> | <img src="./scp/safe/img/scp-330.png" title="SCP-330" width="50" height="50"/> |
-
+| [CUT HANDS](./events/cuthands) | <span style="color:red">EVENT</span> | <span style="color:red">CRITICAL</span> | <img src="../assets/images/events/eventCutHands.png" width="50" height="50"/> |
+| [JANITOR](./humans/foundation/janitor) | <span style="color: red">HUMAN?</span> | <span style="color: green">CLASS-C</span> | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> |
+| [SCP-330](./scp/safe/330) | SCP | <span style="color: green">SAFE</span> | <img src="../assets/images/scp/safe/scp-330.png" title="SCP-330" width="50"/> |
 
 # CATEGORIES
 
 | <span style="color: gray">CAT</span>EGORY | ENTRIES |
 | --- | --- |
-| [SCP's](#scps) | 1 |
-| [CHARACTERS](#characters) | 1 | 
+| [SCP's](#scps) | 1/? |
+| [CHARACTERS](#characters) | 1/? |
+| [EVENTS](#events) | 1/12 |
 
 
 # SCP's
@@ -25,7 +39,7 @@ Here are all sites listed, that are in this Wiki
 
 | ENTRY ITEM | WARNING | IMAGE |
 | --- | --- | --- |
-| [SCP-330](./scp/safe/330) | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | <img src="./scp/safe/img/scp-330.png" title="SCP-330" width="50" height="50"/> |
+| [SCP-330](./scp/safe/330) | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | <img src="../assets/images/scp/safe/scp-330.png" title="SCP-330" width="50"/> |
 
 ## <span style="color: yellow">EUCLID</span>
 
@@ -43,8 +57,25 @@ Here are all sites listed, that are in this Wiki
 
 | NAME | IMAGE | █████ | █████ | █████ |
 | --- | --- | --- | --- | --- |
-| [JANITOR](./humans/foundation/janitor) | <img src="./humans/foundation/img/cleaner.jpg" title="Janitor" width="50" height="73"/> | █████ | █████ | █████ |
+| [JANITOR](./humans/foundation/janitor) | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> | █████ | █████ | █████ |
 
-[![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://raven-sgwc.github.io/SCP-FC/)
+# EVENTS
 
-![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?path=.%2Fweb%2Ftree.md&style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
+| NAME | EFFECT | ICON |
+| --- | --- | --- |
+| [CUT HANDS](./events/cuthands) | <span style="color:red">NEGATIVE</span> | <img src="../assets/images/events/eventCutHands.png" title="cut hands icon" width="50" height="50"/> |
+
+<p align="center">
+    <a href="../index">
+        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/>
+    </a>
+    <a href="./tree#scps">
+        <img src="https://img.shields.io/badge/SCP'S-000000?style=for-the-badge" title="SCP's"/>
+    </a>
+    <a href="./tree#characters">
+        <img src="https://img.shields.io/badge/CHARACTERS-ffffff?style=for-the-badge" title="Characters"/>
+    </a>
+    <a href="./tree#events">
+        <img src="https://img.shields.io/badge/EVENTS-000000?style=for-the-badge" title="Events"/>
+    </a>
+</p>

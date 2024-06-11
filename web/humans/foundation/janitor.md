@@ -1,6 +1,11 @@
-[![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://raven-sgwc.github.io/SCP-FC/)
-[![BACK](https://img.shields.io/badge/GO_TO-INVENTORY-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://raven-sgwc.github.io/SCP-FC/web/tree)
-
+<p align=center>
+    <a href="../../../index">
+        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/>
+    </a>
+    <a href="../../tree">
+        <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries">
+    </a>
+</p>
 <h1 align="center">JANITOR</h1>
 
 # EMPLOYEE FILE
@@ -40,17 +45,16 @@ iLBI7XmJveFHsaduiuiaw3zhjVb0VDIwbr22qfhRtPB
 | - | - | - | - | - |
 | RANDOM CARD | DEATH, ITEMS | a6Pn4yf7NBLTlBM/le | br232qfhRt | l0eCbzssaiGzWi |
 
-[![Janitor](./img/cleaner.jpg)](./uborschick)
-
 <p align="center">
-    <a href="https://raven-sgwc.github.io/SCP-FC/">
-        <img src="https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/>
+    <a href="./uborschick">
+        <img src="../../../assets/images/characters/Uborschick.png" title="???" height="750"/>
     </a>
 </p>
-
-
-
-[![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://raven-sgwc.github.io/SCP-FC/)
-[![BACK](https://img.shields.io/badge/GO_TO-INVENTORY-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://raven-sgwc.github.io/SCP-FC/web/tree)
-
-![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?path=.%2Fweb%2Fcharacters%2Fjanitor.md&style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
+<p align=center>
+    <a href="../../../index">
+        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/>
+    </a>
+    <a href="../../tree">
+        <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries">
+    </a>
+</p>
