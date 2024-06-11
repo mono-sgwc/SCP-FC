@@ -18,6 +18,8 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 # Whats new
 
+SCP-Researcher
+
 Event entry
 
 ██████████ entry
@@ -25,8 +27,6 @@ Event entry
 Janitor entry
 
 Navigation buttons
-
-List of all websites, `Whats new` and SCP-330 entry
 
 # Important Articles
 <a href="./web/tree">

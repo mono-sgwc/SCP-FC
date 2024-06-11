@@ -16,6 +16,7 @@ Here are all sites listed, that are in this Wiki
 
 | ENTRY ITEM | TYPE | CLASS | IMAGE |
 | --- | --- | --- | --- |
+| [SCP-RESEARCHER](./humans/foundation/scp-researcher) | <span style="color: green">HUMAN</span> | <span style="color: green">CLASS-B</span> | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50"/> |
 | [CUT HANDS](./events/cuthands) | <span style="color:red">EVENT</span> | <span style="color:red">CRITICAL</span> | <img src="../assets/images/events/eventCutHands.png" width="50" height="50"/> |
 | [JANITOR](./humans/foundation/janitor) | <span style="color: red">HUMAN?</span> | <span style="color: green">CLASS-C</span> | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> |
 | [SCP-330](./scp/safe/330) | SCP | <span style="color: green">SAFE</span> | <img src="../assets/images/scp/safe/scp-330.png" title="SCP-330" width="50"/> |
@@ -25,7 +26,7 @@ Here are all sites listed, that are in this Wiki
 | <span style="color: gray">CAT</span>EGORY | ENTRIES |
 | --- | --- |
 | [SCP's](#scps) | 1/? |
-| [CHARACTERS](#characters) | 1/? |
+| [CHARACTERS](#characters) | 2/? |
 | [EVENTS](#events) | 1/12 |
 
 
@@ -54,6 +55,7 @@ Here are all sites listed, that are in this Wiki
 | NAME | IMAGE | █████ | █████ | █████ |
 | --- | --- | --- | --- | --- |
 | [JANITOR](./humans/foundation/janitor) | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> | █████ | █████ | █████ |
+| [SCP-RESEARCHER](./humans/foundation/scp-researcher) | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50"/> | █████ | █████ | █████ |
 
 # EVENTS
 
