@@ -18,6 +18,8 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 # Whats new
 
+Goc entry
+
 head of security entry
 
 SCP-Researcher entry
@@ -25,8 +27,6 @@ SCP-Researcher entry
 Event entry
 
 ██████████ entry
-
-Janitor entry
 
 # Important Articles
 <a href="./web/tree">

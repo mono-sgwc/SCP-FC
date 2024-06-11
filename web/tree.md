@@ -16,11 +16,11 @@ Here are all sites listed, that are in this Wiki
 
 | ENTRY ITEM | TYPE | CLASS | IMAGE |
 | --- | --- | --- | --- |
-| <a href="./humans/foundation/gensecurity">HEAD OF SECURITY</a> | <span style="color: green">HUMAN</span> | <span style="color: green">CLASS-B</span> | <img src="../assets/images/characters/GenSecurity.png" width="50"/> |
-| <a href="./humans/foundation/scp-researcher">SCP-RESEARCHER</a> | <span style="color: green">HUMAN</span> | <span style="color: green">CLASS-B</span> | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50"/> |
-| <a href="./events/cuthands">CUT HANDS</a> | <span style="color:red">EVENT</span> | <span style="color:red">CRITICAL</span> | <img src="../assets/images/events/eventCutHands.png" width="50" height="50"/> |
+| <a href="./humans/other/goc">GOC SOLDIER</a> | <span style="color: green">HUMAN</span> | <span style="color: yellow">GOC</span> | <img src="../assets/images/characters/GOC.png" width="50" title="GOC"/> |
+| <a href="./humans/foundation/gensecurity">HEAD OF SECURITY</a> | <span style="color: green">HUMAN</span> | <span style="color: green">CLASS-B</span> | <img src="../assets/images/characters/GenSecurity.png" width="50" title="Head of security"/> |
+| <a href="./humans/foundation/scp-researcher">SCP-RESEARCHER</a> | <span style="color: green">HUMAN</span> | <span style="color: green">CLASS-B</span> | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50" title="scp-researcher"/> |
+| <a href="./events/cuthands">CUT HANDS</a> | <span style="color:red">EVENT</span> | <span style="color:red">CRITICAL</span> | <img src="../assets/images/events/eventCutHands.png" width="50" height="50" title="Cut hands"/> |
 | <a href="./humans/foundation/janitor">JANITOR</a> | <span style="color: red">HUMAN?</span> | <span style="color: green">CLASS-C</span> | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> |
-| <a href="./scp/safe/330">SCP-330</a> | SCP | <span style="color: green">SAFE</span> | <img src="../assets/images/scp/safe/scp-330.png" title="SCP-330" width="50"/> |
 
 # CATEGORIES
 
@@ -53,11 +53,12 @@ Here are all sites listed, that are in this Wiki
 
 # CHARACTERS
 
-| NAME | IMAGE |
-| --- | --- |
-| <a href="./humans/foundation/gensecurity">HEAD OF SECURITY</a> | <img src="../assets/images/characters/GenSecurity.png" title="Head of security" width="50"/> |
-| <a href="./humans/foundation/janitor">JANITOR</a> | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> |
-| <a href="./humans/foundation/scp-researcher">SCP-RESEARCHER</a> | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50"/> |
+| NAME | GROUP | IMAGE |
+| --- | --- | --- |
+| <a href="./humans/other/goc">GOC SOLDIER</a> | <span style="color: yellow">GOC</span> | <img src="../assets/images/characters/GOC.png" width="50" title="GOC"/> |
+| <a href="./humans/foundation/gensecurity">HEAD OF SECURITY</a> | <span style="color: green">SCPF</span> | <img src="../assets/images/characters/GenSecurity.png" title="Head of security" width="50"/> |
+| <a href="./humans/foundation/janitor">JANITOR</a> | <span style="color: green">SCPF</span> | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> |
+| <a href="./humans/foundation/scp-researcher">SCP-RESEARCHER</a> | <span style="color: green">SCPF</span> | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50"/> |
 
 # EVENTS
 
