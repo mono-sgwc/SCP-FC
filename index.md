@@ -27,7 +27,7 @@ List of all websites, `Whats new` and SCP-330 entry
 
 | [SCP-330](./web/scp/330) | [Characters](./web/tree#characters) | [Janitor](./web/characters/janitor) |
 |---|---|---|
-| <img src="./assets/images/items/scp-330.png" title="SCP-330" width="150" height="150"/> | <img src="./assets/images/thumbnail/Characters.webp" title="Characters" width="150" height="150"/> | <img src="./web/characters/assets/images/cleaner.jpg" title="Janitor" width="150" height="150"/> |
+| <img src="./assets/images/items/scp-330.png" title="SCP-330" width="150" height="150"/> | <img src="./assets/images/thumbnail/Characters.webp" title="Characters" width="150" height="150"/> | <img src="./web/characters/assets/images/cleaner.jpg" title="Janitor" width="150" height="226"/> |
 | Aka <span style="color: red">Take two</span> | Characters | The Janitor |
 
 | Placeholder | Placeholder | Placeholder |
