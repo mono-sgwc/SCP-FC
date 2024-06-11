@@ -27,7 +27,7 @@ Here are all sites listed, that are in this Wiki
 | <span style="color: gray">CAT</span>EGORY | ENTRIES |
 | --- | --- |
 | <a href="./tree#scps">SCP's</a> | 1/? |
-| <a href="./tree#characters">CHARACTERS</a> | 2/? |
+| <a href="./tree#characters">CHARACTERS</a> | 3/? |
 | <a href="./tree#events">EVENTS</a> | 1/12 |
 
 
