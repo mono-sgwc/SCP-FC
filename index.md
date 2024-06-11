@@ -15,6 +15,8 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 ![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&link=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
 
+Janitor entry
+
 Navigation buttons
 
 List of all websites, `Whats new` and SCP-330 entry
@@ -24,9 +26,9 @@ List of all websites, `Whats new` and SCP-330 entry
 [![inventory](https://img.shields.io/badge/All_Entries-000000?style=for-the-badge&labelColor=ffffff&color=ffffff)](./web/tree)
 
 
-| [SCP-330](https://raven-sgwc.github.io/SCP-FC/web/scp/330) | [Characters](https://raven-sgwc.github.io/SCP-FC/web/tree#characters) | [Janitor](./web/characters/janitor) |
+| [SCP-330](./web/scp/330) | [Characters](./web/tree#characters) | [Janitor](./web/characters/janitor) |
 |---|---|---|
-| <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/items/scp-330.png" title="SCP-330" width="150" height="150"/> | <img src="https://raven-sgwc.github.io/SCP-FC/assets/images/thumbnail/Characters.webp" title="Characters" width="150" height="150"/> | <img src="./web/characters/assets/images/cleaner.jpg" title="Janitor" width="150" height="150"/> |
+| <img src="./assets/images/items/scp-330.png" title="SCP-330" width="150" height="150"/> | <img src="./assets/images/thumbnail/Characters.webp" title="Characters" width="150" height="150"/> | <img src="./web/characters/assets/images/cleaner.jpg" title="Janitor" width="150" height="150"/> |
 | Aka <span style="color: red">Take two</span> | Characters | The Janitor |
 
 | Placeholder | Placeholder | Placeholder |
