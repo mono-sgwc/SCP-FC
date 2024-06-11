@@ -1,10 +1,8 @@
 <p align=center>
     <a href="../../../index">
-        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/>
-    </a>
+        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>
     <a href="../../tree">
-        <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries">
-    </a>
+        <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries"></a>
 </p>
 <h1 align="center">JANITOR</h1>
 
@@ -47,14 +45,11 @@ iLBI7XmJveFHsaduiuiaw3zhjVb0VDIwbr22qfhRtPB
 
 <p align="center">
     <a href="./uborschick">
-        <img src="../../../assets/images/characters/Uborschick.png" title="???" height="750"/>
-    </a>
+        <img src="../../../assets/images/characters/Uborschick.png" title="???" height="750"/></a>
 </p>
 <p align=center>
     <a href="../../../index">
-        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/>
-    </a>
+        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>
     <a href="../../tree">
-        <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries">
-    </a>
+        <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries"></a>
 </p>

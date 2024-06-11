@@ -1,16 +1,12 @@
 <p align="center">
     <a href="../index">
-        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/>
-    </a>
+        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>
     <a href="./tree#scps">
-        <img src="https://img.shields.io/badge/SCP'S-000000?style=for-the-badge" title="SCP's"/>
-    </a>
+        <img src="https://img.shields.io/badge/SCP'S-000000?style=for-the-badge" title="SCP's"/></a>
     <a href="./tree#characters">
-        <img src="https://img.shields.io/badge/CHARACTERS-ffffff?style=for-the-badge" title="Characters"/>
-    </a>
+        <img src="https://img.shields.io/badge/CHARACTERS-ffffff?style=for-the-badge" title="Characters"/></a>
     <a href="./tree#events">
-        <img src="https://img.shields.io/badge/EVENTS-000000?style=for-the-badge" title="Events"/>
-    </a>
+        <img src="https://img.shields.io/badge/EVENTS-000000?style=for-the-badge" title="Events"/></a>
 </p>
 <h1 align="center">BETA WIKI ENTRIES</h1>
 
@@ -67,15 +63,11 @@ Here are all sites listed, that are in this Wiki
 
 <p align="center">
     <a href="../index">
-        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/>
-    </a>
+        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>
     <a href="./tree#scps">
-        <img src="https://img.shields.io/badge/SCP'S-000000?style=for-the-badge" title="SCP's"/>
-    </a>
+        <img src="https://img.shields.io/badge/SCP'S-000000?style=for-the-badge" title="SCP's"/></a>
     <a href="./tree#characters">
-        <img src="https://img.shields.io/badge/CHARACTERS-ffffff?style=for-the-badge" title="Characters"/>
-    </a>
+        <img src="https://img.shields.io/badge/CHARACTERS-ffffff?style=for-the-badge" title="Characters"/></a>
     <a href="./tree#events">
-        <img src="https://img.shields.io/badge/EVENTS-000000?style=for-the-badge" title="Events"/>
-    </a>
+        <img src="https://img.shields.io/badge/EVENTS-000000?style=for-the-badge" title="Events"/></a>
 </p>

@@ -1,7 +1,6 @@
 <p align=center>
     <a href="./web/tree">
-        <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/>
-    </a>
+        <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/></a>
 </p>
 <p align="center">
  <img width="250" src="./assets/images/misc/BETA_WIKI.png" title="beta_wiki"/>
@@ -44,11 +43,9 @@ List of all websites, `Whats new` and SCP-330 entry
 Official Regular Wiki:
 <p>
     <a href="https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki">
-        <img src="https://img.shields.io/badge/Released_Wiki-000000?style=for-the-badge&labelColor=ffffff&color=ffffff" title="Release Wiki"/>
-    </a>
+        <img src="https://img.shields.io/badge/Released_Wiki-000000?style=for-the-badge&labelColor=ffffff&color=ffffff" title="Release Wiki"/></a>
 </p>
 <p align=center>
     <a href="./web/tree">
-        <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/>
-    </a>
+        <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/></a>
 </p>
