@@ -22,12 +22,12 @@ List of all websites, `Whats new` and SCP-330 entry
 
 # Important Articles
 
-[![inventory](https://img.shields.io/badge/All_Entries-000000?style=for-the-badge&labelColor=ffffff&color=ffffff)](./web/tree)
+[![inventory](https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff)](./web/tree)
 
 
-| [SCP-330](./web/scp/330) | [Characters](./web/tree#characters) | [Janitor](./web/characters/janitor) |
+| [SCP-330](./web/scp/safe/330) | [Characters](./web/tree#characters) | [Janitor](./web/humans/foundation/janitor) |
 |---|---|---|
-| <img src="./assets/images/items/scp-330.png" title="SCP-330" width="150" height="150"/> | <img src="./assets/images/thumbnail/Characters.webp" title="Characters" width="150" height="150"/> | <img src="./web/characters/assets/images/cleaner.jpg" title="Janitor" width="150" height="226"/> |
+| <img src="./web/scp/safe/img/scp-330.png" title="SCP-330" width="150" height="150"/> | <img src="./assets/images/thumbnail/Characters.webp" title="Characters" width="150" height="150"/> | <img src="./web/humans/foundation/img/cleaner.jpg" title="Janitor" width="150" height="226"/> |
 | Aka <span style="color: red">Take two</span> | Characters | The Janitor |
 
 | Placeholder | Placeholder | Placeholder |

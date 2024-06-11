@@ -1,4 +1,4 @@
-[![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge)](https://raven-sgwc.github.io/SCP-FC/)
+[![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://raven-sgwc.github.io/SCP-FC/)
 <h1 align="center">BETA WIKI INVENTORY</h1>
 
 Here are all sites listed, that are in this Wiki
@@ -7,8 +7,8 @@ Here are all sites listed, that are in this Wiki
 
 | ENTRY ITEM | TYPE | CLASS | IMAGE |
 | --- | --- | --- | --- |
-| [JANITOR](./entries/janitor) | <span style="color: red">HUMAN?</span> | <span style="color: green">CLASS-C</span> | <img src="./entries/images/cleaner.jpg" title="Janitor" width="50" height="73"/> |
-| [SCP-330](./scp/330) | SCP | <span style="color: green">SAFE</span> | <img src="./entries/images/scp-330.png" title="SCP-330" width="50" height="50"/> |
+| [JANITOR](./humans/foundation/janitor) | <span style="color: red">HUMAN?</span> | <span style="color: green">CLASS-C</span> | <img src="./humans/foundation/img/cleaner.jpg" title="Janitor" width="50" height="73"/> |
+| [SCP-330](./scp/safe/330) | SCP | <span style="color: green">SAFE</span> | <img src="./scp/safe/img/scp-330.png" title="SCP-330" width="50" height="50"/> |
 
 
 # CATEGORIES
@@ -25,7 +25,7 @@ Here are all sites listed, that are in this Wiki
 
 | ENTRY ITEM | WARNING | IMAGE |
 | --- | --- | --- |
-| [SCP-330](./entries/330) | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | <img src="./entries/images/scp-330.png" title="SCP-330" width="50" height="50"/> |
+| [SCP-330](./scp/safe/330) | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | <img src="./scp/safe/img/scp-330.png" title="SCP-330" width="50" height="50"/> |
 
 ## <span style="color: yellow">EUCLID</span>
 
@@ -43,8 +43,8 @@ Here are all sites listed, that are in this Wiki
 
 | NAME | IMAGE | █████ | █████ | █████ |
 | --- | --- | --- | --- | --- |
-| [JANITOR](./entries/janitor) | <img src="./entries/images/cleaner.jpg" title="Janitor" width="50" height="73"/> | █████ | █████ | █████ |
+| [JANITOR](./humans/foundation/janitor) | <img src="./humans/foundation/img/cleaner.jpg" title="Janitor" width="50" height="73"/> | █████ | █████ | █████ |
 
-[![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge)](https://raven-sgwc.github.io/SCP-FC/)
+[![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://raven-sgwc.github.io/SCP-FC/)
 
 ![Last Update](https://img.shields.io/github/last-commit/raven-sgwc/SCP-FC?path=.%2Fweb%2Ftree.md&style=for-the-badge&label=LAST%20UPDATE&labelColor=000000&color=ffffff&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)

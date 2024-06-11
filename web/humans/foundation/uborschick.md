@@ -34,7 +34,7 @@ Retreaving <span style="color: red">NO_ESCAPE.KILL<span/>
 | - | - | - | - | - |
 | <span style="color: red">CTCrVmX3OT5PEaJq3c8wJ<span/> | <span style="color: red">LHZDDVoVQiRxjOZO9k<span/> | <span style="color: red">a6Pn4yf7NBLTlBM/le<span/> | <span style="color: red">br232qfhRt<span/> | <span style="color: red">l0eCbzssaiGzWi<span/> |
 
-[![Janitor](./assets/images/Uborschick.png)](./uborschick#employee-stats)
+[![Janitor](./img/Uborschick.png)](./uborschick#employee-stats)
 
 ![BACK](https://img.shields.io/badge/GO_TO-HOME-ffffff?style=for-the-badge&labelColor=ff0000&color=ff9999&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
 ![BACK](https://img.shields.io/badge/GO_TO-INVENTORY-ffffff?style=for-the-badge&labelColor=ff0000&color=ff9999&cacheSeconds=https%3A%2F%2Fraven-sgwc.github.io%2FSCP-FC)
