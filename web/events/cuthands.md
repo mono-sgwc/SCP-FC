@@ -9,9 +9,9 @@
 
 # STATS
 
-| STARTED | EFFECT/INTERACTION | CTCrVmX3OT5PEaJq3c8wJ | rZW1Ap1IOua3j | LHZDDVoVQiRxjOZO9k | 
-| - | - | - | - | - |
-| <a href="../scp/safe/330">SCP-330</a> |  | a6Pn4yf7NBLTlBM/le | br232qfhRt | l0eCbzssaiGzWi |
+| STARTED | EFFECT/INTERACTION |
+| - | - |
+| <a href="../scp/safe/330">SCP-330</a> |  |
 
 <h1 align="center">CUT HANDS</h1>
 <p align="center">

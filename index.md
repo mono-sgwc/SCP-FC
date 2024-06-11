@@ -18,7 +18,9 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 # Whats new
 
-SCP-Researcher
+head of security entry
+
+SCP-Researcher entry
 
 Event entry
 
@@ -26,14 +28,12 @@ Event entry
 
 Janitor entry
 
-Navigation buttons
-
 # Important Articles
 <a href="./web/tree">
-<img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/>
+    <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/>
+</a>
 
-
-| [SCP-330](./web/scp/safe/330) | [Characters](./web/tree#characters) | [Janitor](./web/humans/foundation/janitor) |
+| <a href="./web/scp/safe/330">SCP-330</a> | <a href="./web/tree#characters">Characters</a> | <a href="./web/humans/foundation/janitor">Janitor</a> |
 |---|---|---|
 | <img src="./assets/images/scp/safe/scp-330.png" title="SCP-330" width="150" height="150"/> | <img src="./assets/images/misc/Characters.webp" title="Characters" width="150" height="150"/> | <img src="./assets/images/characters/cleaner.jpg" title="Janitor" width="150"/> |
 | Aka <span style="color: red">Take two</span> | Characters | The Janitor |
