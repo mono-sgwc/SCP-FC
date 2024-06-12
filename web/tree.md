@@ -26,7 +26,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 | ENTRY ITEM | TYPE | CLASS | IMAGE |
 | --- | --- | --- | --- |
-| <a href="./scp/euclid/049" style="color:yellow">SCP-049</a> | <a href="./tree#scps" style="color:red">SCP</a> | <a href="./tree#euclid" style="color:yellow">EUCLID</span> | <img src="../assets/images/scp/euclid/scp_049.png" title="SCP-049" width="50"/> |
+| <a href="./scp/euclid/049" style="color:yellow">SCP-049</a> | <a href="./tree#scps" style="color:red">SCP</a> | <a href="./tree#euclid" style="color:yellow">EUCLID</a> | <img src="../assets/images/scp/euclid/scp_049.png" title="SCP-049" width="50"/> |
 | <a href="./scp/keter/035" style="color:red">SCP-035</a> | <a href="./tree#scps" style="color:red">SCP</a> | <a href="./tree#keter" style="color:red">KETER</a> | <img src="../assets/images/scp/keter/035/SCP_035_Human.jpg" title="SCP-035" width="50"/> |
 | <a href="./humans/other/goc" style="color:white">GOC SOLDIER</a> | <a href="./tree#characters" style="color:green">HUMAN</a> | <a href="./tree#characters" style="color:yellow">GOC</a> | <img src="../assets/images/characters/GOC.png" width="50" title="GOC"/> |
 | <a href="./humans/foundation/gensecurity" style="color:white">HEAD OF SECURITY</a> | <a href="./tree#characters" style="color:green">HUMAN</a> | <a href="./tree#characters" style="color:green">CLASS-B</a> | <img src="../assets/images/characters/GenSecurity.png" width="50" title="Head of security"/> |
