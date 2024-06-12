@@ -56,61 +56,18 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | ENTRY ITEM | WARNINGS | LOGS | INCIDENTS | IMAGE | COMPLETED? |
 | --- | --- | --- | --- | --- | --- |
 | <a href="./scp/safe/330" style="color:green">SCP-330</a> | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | 1/? | 1/? | <img src="../assets/images/scp/safe/330/SCP_330.jpg" title="SCP-330" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/safe" style="color:green">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 
 ## <span style="color: yellow">EUCLID</span>
 
 | ENTRY ITEM | WARNINGS | LOGS | INCIDENTS | IMAGE | COMPLETED? |
 | --- | --- | --- | --- | --- | --- |
 | <a href="./scp/euclid/049" style="color:yellow">SCP-049</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | 0/? | 0/? | <img src="../assets/images/scp/euclid/scp_049.png" title="SCP-049" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/euclid" style="color:yellow">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 
 ## <span style="color: red">KETER</span>
 
 | ENTRY ITEM | WARNINGS | LOGS | INCIDENTS | IMAGE | COMPLETED? |
 | --- | --- | --- | --- | --- | --- |
 | <a href="./scp/keter/035" style="color:red">SCP-035</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | 0/? | 0/? | <img src="../assets/images/scp/keter/035/SCP_035_Human.jpg" title="SCP-035" width="50"/> | ❌ |
-| <a href="./scp/keter" style="color:red">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/keter" style="color:red">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-| <a href="./scp/keter" style="color:red">SCP-000</a> |  | 0/? | 0/? | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 
 
 # CHARACTERS
@@ -127,13 +84,6 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | ITEM | IMAGE | COMPLETED? |
 | --- | --- | --- |
 |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 
 
 # EVENTS
@@ -141,55 +91,17 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | NAME | EFFECT | IMAGE | COMPLETED? |
 | --- | --- | --- | - |
 | <a href="./events/cuthands" style="color:red">CUT HANDS</a> | <span style="color:red">NEGATIVE</span> | <img src="../assets/images/events/eventCutHands.png" title="cut hands icon" width="50" height="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 
 # DEATHS
 
 | DEATH | IMAGE | COMPLETED? |
 | --- | --- | --- |
 |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 
 # ACHIVEMENTS
 
 | ACHIVEMENT | IMAGE | COMPLETED? | 
 | --- | --- | --- |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 | ??? | ??? | ??? |
 | ??? | ??? | ??? |
@@ -199,13 +111,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 | ENDING | N | IMAGE | COMPLETED? |
 | --- | --- | --- | - |
-|  | 1 | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | 2 | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | 3 | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | 4 | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | 5 | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | 6 | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
-|  | 7 | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
+|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 
 <p align="center">
     <a href="../index">
