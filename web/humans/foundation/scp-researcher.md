@@ -22,7 +22,7 @@ Retreaving researcher_18273.dmx
 | RANDOM CARD | ??? |
 
 <p align="center">
-    <img src="../../../assets/images/characters/SCP_Researcher.jpg" title="SCP-Researcher" height="750"/>
+    <img src="../../../assets/images/characters/SCP_Researcher.jpg" title="SCP-Researcher" width="500"/>
 </p>
 <p align=center>
     <a href="../../../index">

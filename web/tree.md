@@ -24,13 +24,9 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 # NEW
 
-| ENTRY ITEM | TYPE | CLASS | IMAGE |
-| --- | --- | --- | --- |
-| <a href="./scp/euclid/049" style="color:yellow">SCP-049</a> | <a href="./tree#scps" style="color:red">SCP</a> | <a href="./tree#euclid" style="color:yellow">EUCLID</a> | <img src="../assets/images/scp/euclid/scp_049.png" title="SCP-049" width="50"/> |
-| <a href="./scp/keter/035" style="color:red">SCP-035</a> | <a href="./tree#scps" style="color:red">SCP</a> | <a href="./tree#keter" style="color:red">KETER</a> | <img src="../assets/images/scp/keter/035/SCP_035_Human.jpg" title="SCP-035" width="50"/> |
-| <a href="./humans/other/goc" style="color:white">GOC SOLDIER</a> | <a href="./tree#characters" style="color:green">HUMAN</a> | <a href="./tree#characters" style="color:yellow">GOC</a> | <img src="../assets/images/characters/GOC.png" width="50" title="GOC"/> |
-| <a href="./humans/foundation/gensecurity" style="color:white">HEAD OF SECURITY</a> | <a href="./tree#characters" style="color:green">HUMAN</a> | <a href="./tree#characters" style="color:green">CLASS-B</a> | <img src="../assets/images/characters/GenSecurity.png" width="50" title="Head of security"/> |
-| <a href="./humans/foundation/scp-researcher" style="color:white">SCP-RESEARCHER</a> | <a href="./tree#characters" style="color:green">HUMAN</a> | <a href="./tree#characters" style="color:green">CLASS-B</a> | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50" title="scp-researcher"/> |
+- SCP-096
+- Head of scientific department
+- security guard
 
 # CATEGORIES
 
@@ -90,7 +86,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | NAME| GROUP | LOGS | INCIDENTS  | IMAGE | COMPLETED? |
 | --- | --- | --- | --- | --- | --- |
 | <a href="./humans/other/goc" style="color:white">GOC SOLDIER</a> | <span style="color: yellow">GOC</span> | 0/? | 0/? | <img src="../assets/images/characters/GOC.png" width="50" title="GOC"/> | ❌ |
-| <a href="./humans/foundation/hosd" style="color:white">HEAD OF SCIENTIFIC DEPARTEMENT</a> | <span style="color: green">SCPF</span> | 0/? | 0/? | <img src="../assets/images/characters/CardScientistGen4_008.jpg" title="Head of security" width="50"/> | ❌ |
+| <a href="./humans/foundation/hosd" style="color:white">HEAD OF SCIENTIFIC DEPARTMENT</a> | <span style="color: green">SCPF</span> | 0/? | 0/? | <img src="../assets/images/characters/CardScientistGen4_008.jpg" title="Head of security" width="50"/> | ❌ |
 | <a href="./humans/foundation/gensecurity" style="color:white">HEAD OF SECURITY</a> | <span style="color: green">SCPF</span> | 0/? | 0/? | <img src="../assets/images/characters/GenSecurity.png" title="Head of security" width="50"/> | ❌ |
 | <a href="./humans/foundation/janitor" style="color:white">JANITOR</a> | <span style="color: green">SCPF</span> | 1/? | 0/? | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> | ❌ |
 | <a href="./humans/foundation/scp-researcher" style="color:white">SCP-RESEARCHER</a> | <span style="color: green">SCPF</span> | 0/? | 0/? | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50"/> | ❌ |
@@ -125,9 +121,9 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 # DEATHS
 
-| DEATH | N | IMAGE | COMPLETED? |
-| --- | --- | --- | - |
-|  | 15 | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
+| DEATH | IMAGE | COMPLETED? |
+| --- | --- | - |
+|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 
 <p align="center">
     <a href="./tree#categories">
@@ -150,9 +146,9 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 # ENDINGS
 
-| ENDING | N | IMAGE | COMPLETED? |
-| --- | --- | --- | - |
-|  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
+| ENDING | IMAGE | COMPLETED? |
+| --- | --- | - |
+|  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 
 <p align="center">
     <a href="./tree#categories">

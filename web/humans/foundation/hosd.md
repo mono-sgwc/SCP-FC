@@ -4,25 +4,25 @@
     <a href="../../tree">
         <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries"></a>
 </p>
-<h1 align="center">GOC SOLDIER</h1>
+<h1 align="center">HEAD OF SCIENTIFIC DEPARTMENT</h1>
 
-# GOC FILE
+# EMPLOYEE FILE
 
 ```
-> Get 27fhh2fh.dnx
+> Get sc_192w8317.dnx
 Loading...
-Retreaving 27fhh2fh.dmx
+Retreaving sc_192w8317.dmx
 [####________________]
 ```
 
-# GOC UNIT STATS
+# EMPLOYEE STATS
 
 | APEARANCE | EFFECT/INTERACTION |
 | - | - |
 | RANDOM CARD | ??? |
 
 <p align="center">
-    <img src="../../../assets/images/characters/GOC.png" title="GOC Soldier" width="500"/>
+    <img src="../../../assets/images/characters/CardScientistGen4_008.jpg" title="Head of scientific dep" width="500"/>
 </p>
 <p align=center>
     <a href="../../../index">

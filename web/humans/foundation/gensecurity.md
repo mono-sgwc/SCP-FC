@@ -22,7 +22,7 @@ Retreaving sc_1928317.dmx
 | RANDOM CARD | ??? |
 
 <p align="center">
-    <img src="../../../assets/images/characters/GenSecurity.png" title="Head of security" height="750"/>
+    <img src="../../../assets/images/characters/GenSecurity.png" title="Head of security" width="500"/>
 </p>
 <p align=center>
     <a href="../../../index">

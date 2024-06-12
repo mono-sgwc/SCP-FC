@@ -36,7 +36,7 @@ Retreaving janitor_13125.dmx
 
 <p align="center">
     <a href="./uborschick">
-        <img src="../../../assets/images/characters/Uborschick.png" title="???" height="750"/></a>
+        <img src="../../../assets/images/characters/Uborschick.png" title="???" width="500"/></a>
 </p>
 <p align=center>
     <a href="../../../index">
