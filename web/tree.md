@@ -32,7 +32,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 | <span style="color: gray">CAT</span>EGORY | ENTRIES | COMPLETED |
 | --- | --- | --- |
-| TOTAL | 10/178 | 0/178 |
+| TOTAL | 10/180 | 0/180 |
 | <a href="./tree#scps" style="color:white">SCP's</a> | 4/48 | 0/48 |
 | <a href="./tree#safe" style="color:green">SAFE</a> | <span style="color:grey">1/23</span> | <span style="color:grey">0/23</span> |
 | <a href="./tree#euclid" style="color:yellow">EUCLID</a> | <span style="color:grey">2/19</span> | <span style="color:grey">0/19</span> |
