@@ -57,11 +57,21 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | --- | --- | --- | --- | --- | --- |
 | <a href="./scp/safe/330" style="color:green">SCP-330</a> | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | 1/? | 1/? | <img src="../assets/images/scp/safe/330/SCP_330.jpg" title="SCP-330" width="50"/> | ❌ |
 
+<p align="center">
+    <a href="./tree#categories">
+        <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
+</p>
+
 ## <span style="color: yellow">EUCLID</span>
 
 | ENTRY ITEM | WARNINGS | LOGS | INCIDENTS | IMAGE | COMPLETED? |
 | --- | --- | --- | --- | --- | --- |
 | <a href="./scp/euclid/049" style="color:yellow">SCP-049</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | 0/? | 0/? | <img src="../assets/images/scp/euclid/scp_049.png" title="SCP-049" width="50"/> | ❌ |
+
+<p align="center">
+    <a href="./tree#categories">
+        <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
+</p>
 
 ## <span style="color: red">KETER</span>
 
@@ -69,6 +79,10 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | --- | --- | --- | --- | --- | --- |
 | <a href="./scp/keter/035" style="color:red">SCP-035</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | 0/? | 0/? | <img src="../assets/images/scp/keter/035/SCP_035_Human.jpg" title="SCP-035" width="50"/> | ❌ |
 
+<p align="center">
+    <a href="./tree#categories">
+        <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
+</p>
 
 # CHARACTERS
 
@@ -79,12 +93,21 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | <a href="./humans/foundation/janitor" style="color:white">JANITOR</a> | <span style="color: green">SCPF</span> | 1/? | 0/? | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> | ❌ |
 | <a href="./humans/foundation/scp-researcher" style="color:white">SCP-RESEARCHER</a> | <span style="color: green">SCPF</span> | 0/? | 0/? | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50"/> | ❌ |
 
+<p align="center">
+    <a href="./tree#categories">
+        <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
+</p>
+
 # ITEMS
 
 | ITEM | IMAGE | COMPLETED? |
 | --- | --- | --- |
 |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
 
+<p align="center">
+    <a href="./tree#categories">
+        <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
+</p>
 
 # EVENTS
 
@@ -92,11 +115,21 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | --- | --- | --- | - |
 | <a href="./events/cuthands" style="color:red">CUT HANDS</a> | <span style="color:red">NEGATIVE</span> | <img src="../assets/images/events/eventCutHands.png" title="cut hands icon" width="50" height="50"/> | ❌ |
 
+<p align="center">
+    <a href="./tree#categories">
+        <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
+</p>
+
 # DEATHS
 
 | DEATH | IMAGE | COMPLETED? |
 | --- | --- | --- |
 |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
+
+<p align="center">
+    <a href="./tree#categories">
+        <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
+</p>
 
 # ACHIVEMENTS
 
@@ -107,11 +140,21 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | ??? | ??? | ??? |
 | ??? | ??? | ??? |
 
+<p align="center">
+    <a href="./tree#categories">
+        <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
+</p>
+
 # ENDINGS
 
 | ENDING | N | IMAGE | COMPLETED? |
 | --- | --- | --- | - |
 |  |  | <img src="../assets/images/misc/SpaceBack.png" title="PLACEHOLDER" width="50"/> | ❌ |
+
+<p align="center">
+    <a href="./tree#categories">
+        <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
+</p>
 
 <p align="center">
     <a href="../index">
