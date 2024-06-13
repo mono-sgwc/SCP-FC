@@ -39,8 +39,8 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 | <span style="color: gray">CAT</span>EGORY | LOGS | INCIDENTS  | ENTRIES | COMPLETED |
 | --- | --- | --- | - | - |
-| <span style="color:cyan">TOTAL</span> | <span style="color:cyan">2</span> | <span style="color:cyan">1</span> | <span style="color:cyan">20/140</span> | <span style="color:cyan">0/140</span> |
-| <a href="./tree#scps" style="color:white">SCP's</a> | 1 | 1 | 8/51 | 0/51 |
+| <span style="color:cyan">TOTAL</span> | <span style="color:cyan">2</span> | <span style="color:cyan">1</span> | <span style="color:cyan">24/140</span> | <span style="color:cyan">0/140</span> |
+| <a href="./tree#scps" style="color:white">SCP's</a> | 1 | 1 | 11/51 | 0/51 |
 | <a href="./tree#safe" style="color:green">SAFE</a> | <span style="color:grey">1</span> | <span style="color:grey">1</span> | <span style="color:grey">6/24</span> | <span style="color:grey">0/24</span> |
 | <a href="./tree#euclid" style="color:yellow">EUCLID</a> | <span style="color:grey">0</span> | <span style="color:grey">0</span> | <span style="color:grey">3/19</span> | <span style="color:grey">0/19</span> |
 | <a href="./tree#keter" style="color:red">KETER</a> | <span style="color:grey">0</span> | <span style="color:grey">0</span> | <span style="color:grey">2/8</span> | <span style="color:grey">0/8</span> |
