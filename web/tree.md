@@ -6,7 +6,7 @@
     <a href="./tree#characters">
         <img src="https://img.shields.io/badge/CHARACTERS-ffffff?style=for-the-badge" title="Characters"/></a>
     <a href="./tree#items">
-        <img src="https://img.shields.io/badge/CHARACTERS-000000?style=for-the-badge" title="ITEMS"/></a>
+        <img src="https://img.shields.io/badge/ITEMS-000000?style=for-the-badge" title="ITEMS"/></a>
     <a href="./tree#events">
         <img src="https://img.shields.io/badge/EVENTS-ffffff?style=for-the-badge" title="Events"/></a>
     <a href="./tree#deaths">
@@ -182,7 +182,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
     <a href="./tree#characters">
         <img src="https://img.shields.io/badge/CHARACTERS-ffffff?style=for-the-badge" title="Characters"/></a>
     <a href="./tree#items">
-        <img src="https://img.shields.io/badge/CHARACTERS-000000?style=for-the-badge" title="ITEMS"/></a>
+        <img src="https://img.shields.io/badge/ITEMS-000000?style=for-the-badge" title="ITEMS"/></a>
     <a href="./tree#events">
         <img src="https://img.shields.io/badge/EVENTS-ffffff?style=for-the-badge" title="Events"/></a>
     <a href="./tree#deaths">
