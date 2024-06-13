@@ -18,6 +18,18 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 # Whats new
 
+- 10 new entries
+- - SCP 500
+- - FBI
+- - O5-11
+- - SCP 111
+- - Assistant
+- - Scientist
+- - SCP 079
+- - SCP 391
+- - SCP 169
+- - Amnesiac
+
 - 3 new entries
 - - SCP-268
 - - SCP-155
