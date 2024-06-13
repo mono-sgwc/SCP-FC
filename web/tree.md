@@ -24,25 +24,29 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 # NEW
 
+- SCP-155
+- SCP-268
+- Head of medical department
+
 - SCP-096
 - Head of scientific department
 - security guard
 
 # CATEGORIES
 
-| <span style="color: gray">CAT</span>EGORY | ENTRIES | COMPLETED |
-| --- | --- | --- |
-| TOTAL | 10/180 | 0/180 |
-| <a href="./tree#scps" style="color:white">SCP's</a> | 4/48 | 0/48 |
-| <a href="./tree#safe" style="color:green">SAFE</a> | <span style="color:grey">1/23</span> | <span style="color:grey">0/23</span> |
-| <a href="./tree#euclid" style="color:yellow">EUCLID</a> | <span style="color:grey">2/19</span> | <span style="color:grey">0/19</span> |
-| <a href="./tree#keter" style="color:red">KETER</a> | <span style="color:grey">1/4</span> | <span style="color:grey">0/4</span> |
-| <a href="./tree#characters" style="color:white">CHARACTERS</a> | 6/28 | 0/28 |
-| <a href="./tree#items" style="color:white">ITEMS</a> | 0/8 | 0/8 |
-| <a href="./tree#events" style="color:white">EVENTS</a> | 1/12 | 0/12 |
-| <a href="tree#deaths" style="color:white">DEATHS</a> | 0/18 | 0/18 |
-| <a href="tree#achivements" style="color:white">ACHIVEMENTS</a> | 0/11 | 0/11 |
-| <a href="tree#endings" style="color:white">ENDINGS</a> | 0/7 | 0/7 |
+| <span style="color: gray">CAT</span>EGORY | LOGS | INCIDENTS  | ENTRIES | COMPLETED |
+| --- | --- | --- | - | - |
+| <span style="color:cyan">TOTAL</span> | <span style="color:cyan">2</span> | <span style="color:cyan">1</span> | <span style="color:cyan">14/180</span> | <span style="color:cyan">0/180</span> |
+| <a href="./tree#scps" style="color:white">SCP's</a> | 1 | 1 | 6/48 | 0/48 |
+| <a href="./tree#safe" style="color:green">SAFE</a> | <span style="color:grey">1</span> | <span style="color:grey">1</span> | <span style="color:grey">3/23</span> | <span style="color:grey">0/23</span> |
+| <a href="./tree#euclid" style="color:yellow">EUCLID</a> | <span style="color:grey">0</span> | <span style="color:grey">0</span> | <span style="color:grey">2/19</span> | <span style="color:grey">0/19</span> |
+| <a href="./tree#keter" style="color:red">KETER</a> | <span style="color:grey">0</span> | <span style="color:grey">0</span> | <span style="color:grey">1/4</span> | <span style="color:grey">0/4</span> |
+| <a href="./tree#characters" style="color:white">CHARACTERS</a> | 1 | 0 | 7/28 | 0/28 |
+| <a href="./tree#items" style="color:white">ITEMS</a> | 0 | 0 | 0/8 | 0/8 |
+| <a href="./tree#events" style="color:white">EVENTS</a> | 0 | 0 | 1/12 | 0/12 |
+| <a href="tree#deaths" style="color:white">DEATHS</a> | 0 | 0 | 0/18 | 0/18 |
+| <a href="tree#achivements" style="color:white">ACHIVEMENTS</a> | 0 | 0 | 0/11 | 0/11 |
+| <a href="tree#endings" style="color:white">ENDINGS</a> | 0 | 0 | 0/7 | 0/7 |
 
 
 # SCP's
@@ -51,7 +55,9 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 | ENTRY ITEM | WARNINGS | LOGS | INCIDENTS | IMAGE | COMPLETED? |
 | --- | --- | --- | --- | --- | --- |
-| <a href="./scp/safe/330" style="color:green">SCP-330</a> | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | 1/? | 1/? | <img src="../assets/images/scp/safe/330/SCP_330.jpg" title="SCP-330" width="50"/> | ❌ |
+| <a href="./scp/safe/155" style="color:green">SCP-155</a> | <span style="color: grey">UNKNOWN</span> | 0 | 0 | <img src="../assets/images/scp/safe/scp-155.png" title="SCP-155" width="50"/> | ❌ |
+| <a href="./scp/safe/268" style="color:green">SCP-268</a> | <span style="color: yellow">OBJECT WITH SHAPESCHIFTING PROPERTIES</span> | 0 | 0 | <img src="../assets/images/scp/safe/scp268.png" title="SCP-268" width="50"/> | ❌ |
+| <a href="./scp/safe/330" style="color:green">SCP-330</a> | <span style="color: yellow">INDIRECT INJURY HAZARD</span> | 1 | 1 | <img src="../assets/images/scp/safe/330/SCP_330.jpg" title="SCP-330" width="50"/> | ❌ |
 
 <p align="center">
     <a href="./tree#categories">
@@ -62,8 +68,8 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 | ENTRY ITEM | WARNINGS | LOGS | INCIDENTS | IMAGE | COMPLETED? |
 | --- | --- | --- | --- | --- | --- |
-| <a href="./scp/euclid/049" style="color:yellow">SCP-049</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | 0/? | 0/? | <img src="../assets/images/scp/euclid/scp_049.png" title="SCP-049" width="50"/> | ❌ |
-| <a href="./scp/euclid/096" style="color:yellow">SCP-096</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | 0/? | 0/? | <img src="../assets/images/scp/euclid/r_scp-096.jpg" title="SCP-049" width="50"/> | ❌ |
+| <a href="./scp/euclid/049" style="color:yellow">SCP-049</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | 0 | 0 | <img src="../assets/images/scp/euclid/scp_049.png" title="SCP-049" width="50"/> | ❌ |
+| <a href="./scp/euclid/096" style="color:yellow">SCP-096</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | 0 | 0 | <img src="../assets/images/scp/euclid/r_scp-096.jpg" title="SCP-049" width="50"/> | ❌ |
 
 <p align="center">
     <a href="./tree#categories">
@@ -74,7 +80,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 | ENTRY ITEM | WARNINGS | LOGS | INCIDENTS | IMAGE | COMPLETED? |
 | --- | --- | --- | --- | --- | --- |
-| <a href="./scp/keter/035" style="color:red">SCP-035</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | 0/? | 0/? | <img src="../assets/images/scp/keter/035/SCP_035_Human.jpg" title="SCP-035" width="50"/> | ❌ |
+| <a href="./scp/keter/035" style="color:red">SCP-035</a> | <span style="color: red">SENTIENT AND VIOLENT</span> | 0 | 0 | <img src="../assets/images/scp/keter/035/SCP_035_Human.jpg" title="SCP-035" width="50"/> | ❌ |
 
 <p align="center">
     <a href="./tree#categories">
@@ -85,12 +91,13 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 | NAME| GROUP | LOGS | INCIDENTS  | IMAGE | COMPLETED? |
 | --- | --- | --- | --- | --- | --- |
-| <a href="./humans/other/goc" style="color:white">GOC SOLDIER</a> | <span style="color: yellow">GOC</span> | 0/? | 0/? | <img src="../assets/images/characters/GOC.png" width="50" title="GOC"/> | ❌ |
-| <a href="./humans/foundation/hosd" style="color:white">HEAD OF SCIENTIFIC DEPARTMENT</a> | <span style="color: green">SCPF</span> | 0/? | 0/? | <img src="../assets/images/characters/CardScientistGen4_008.jpg" title="Head of security" width="50"/> | ❌ |
-| <a href="./humans/foundation/gensecurity" style="color:white">HEAD OF SECURITY</a> | <span style="color: green">SCPF</span> | 0/? | 0/? | <img src="../assets/images/characters/GenSecurity.png" title="Head of security" width="50"/> | ❌ |
-| <a href="./humans/foundation/janitor" style="color:white">JANITOR</a> | <span style="color: green">SCPF</span> | 1/? | 0/? | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> | ❌ |
-| <a href="./humans/foundation/scp-researcher" style="color:white">SCP-RESEARCHER</a> | <span style="color: green">SCPF</span> | 0/? | 0/? | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50"/> | ❌ |
-| <a href="./humans/foundation/fg" style="color:white">SECURITY GUARD</a> | <span style="color: green">SCPF</span> | 0/? | 0/1-? | <img src="../assets/images/characters/security/Security.png" width="50"/> | ❌ |
+| <a href="./humans/other/goc" style="color:white">GOC SOLDIER</a> | <span style="color: yellow">GOC</span> | 0 | 0 | <img src="../assets/images/characters/GOC.png" width="50" title="GOC"/> | ❌ |
+| <a href="./humans/foundation/homd" style="color:white">HEAD OF MEDICAL DEPARTMENT</a> | <span style="color: green">SCPF</span> | 0 | 0 | <img src="../assets/images/characters/CardDoctor.jpg" width="50" title="HEAD OF MEDICAL DEPARTMENT"/> | ❌ |
+| <a href="./humans/foundation/hosd" style="color:white">HEAD OF SCIENTIFIC DEPARTMENT</a> | <span style="color: green">SCPF</span> | 0 | 0 | <img src="../assets/images/characters/CardScientistGen4_008.jpg" title="Head of security" width="50"/> | ❌ |
+| <a href="./humans/foundation/gensecurity" style="color:white">HEAD OF SECURITY</a> | <span style="color: green">SCPF</span> | 0 | 0 | <img src="../assets/images/characters/GenSecurity.png" title="Head of security" width="50"/> | ❌ |
+| <a href="./humans/foundation/janitor" style="color:white">JANITOR</a> | <span style="color: green">SCPF</span> | 1 | 0 | <img src="../assets/images/characters/cleaner.jpg" title="Janitor" width="50"/> | ❌ |
+| <a href="./humans/foundation/scp-researcher" style="color:white">SCP-RESEARCHER</a> | <span style="color: green">SCPF</span> | 0 | 0 | <img src="../assets/images/characters/SCP_Researcher.jpg" width="50"/> | ❌ |
+| <a href="./humans/foundation/fg" style="color:white">SECURITY GUARD</a> | <span style="color: green">SCPF</span> | 0 | 0 | <img src="../assets/images/characters/security/Security.png" width="50"/> | ❌ |
 
 <p align="center">
     <a href="./tree#categories">

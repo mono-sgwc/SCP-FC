@@ -18,15 +18,20 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 # Whats new
 
-SCP-049 Entry
+- 3 new entries
+- - SCP-268
+- - SCP-155
+- - Head of medical department
 
-SCP-035 Entry
+- SCP-049 Entry
 
-Goc entry
+- SCP-035 Entry
 
-head of security entry
+- Goc entry
 
-SCP-Researcher entry
+- head of security entry
+
+- SCP-Researcher entry
 
 # Important Articles
 <a href="./web/tree">
