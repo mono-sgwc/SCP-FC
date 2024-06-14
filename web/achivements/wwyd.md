@@ -5,26 +5,14 @@
         <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries"></a>
 </p>
 
-<h1 align="center">SCP-111</h1>
+<h1 align="center">WHY WON'T YOU DIE?</h1>
 
-# SCP FILE
-### OBJECT CLASS: <span style="color:green">SAFE</span>
+# FILE
 
-```
-> Get SCP-111.dnx
-Loading...
-Retreaving SCP-111.dmx
-[#####_______________]
-```
-
-# SCP STATS
-
-| APEARANCE | EFFECT/INTERACTION |
-| - | - |
-| RESEARCH | ??? |
+Survive death 14 times.
 
 <p align="center">
-    <img src="../../../assets/images/scp/safe/r_scp-111.jpg" title="SCP-111" width="500">
+    <img src="../../assets/images/achievements/achBox.png" title="WHY WON'T YOU DIE?" width="500">
 </p>
 
 <p align=center>
