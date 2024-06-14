@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combination Lock</title>
+    <script>
+        function checkCombination() {
+            const correctCombination = "1234567890"; // Set your correct 10-digit combination here
+            const userCombination = document.getElementById("combinationInput").value;
+
+            if (userCombination === correctCombination) {
+                window.location.href = "https://www.example.com"; // Redirect to the desired URL
+            } else {
+                document.getElementById("message").innerText = "Incorrect combination. Please try again.";
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Enter the 10-digit combination</h1>
+    <input type="text" id="combinationInput" maxlength="10" placeholder="Enter combination">
+    <button onclick="checkCombination()">Submit</button>
+    <p id="message" style="color: red;"></p>
+</body>
+</html>
