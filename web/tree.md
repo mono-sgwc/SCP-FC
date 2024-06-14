@@ -24,16 +24,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 # NEW
 
-- SCP 500
-- FBI
-- O5-11
-- SCP 111
-- Assistant
-- Scientist
-- SCP 079
-- SCP 391
-- SCP 169
-- Amnesiac
+- Many wiki entries incl. scp's, achivements.
 
 # CATEGORIES
 
