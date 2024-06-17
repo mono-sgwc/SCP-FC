@@ -1,13 +1,14 @@
 title: "SCP:FC Beta Wiki"
-icon: BETA_WIKI.png
-favicon: "BETA_WIKI.png"
 author: "RAVFEN"
 avatar: "https://raven-sgwc.github.io/SCP-FC/assets/images/BETA_WIKI.png"
 round-avatar: true
 title-on-all-pages: true
+icon: BETA_WIKI.png
+favicon: "BETA_WIKI.png"
 post_search: true
 edit_page_button: true
 description: "Official beta wiki of SCP: Foundation Cronicles"
+page_title: SCP:FC BETA WIKI
 show_downloads: False
 google_analytics: G-1344DZ4TJK
 remote_theme: pages-themes/hacker@v0.2.0

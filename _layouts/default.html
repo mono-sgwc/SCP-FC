@@ -7,33 +7,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <link rel="icon" href="BETA_WIKI.png" type="image/png">
-    <title id="page-title">SCP:FC BETA WIKI</title>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const titleElement = document.getElementById('page-title');
-            const path = window.location.pathname;
-            const pageName = path.substring(path.lastIndexOf('/') + 1).replace('.html', '');
-            let title;
-            switch(pageName) {
-                case 'index':
-                    title = 'Main Page | SCP:FC';
-                    break;
-                case 'SCP-FC':
-                    title = 'Main Page | SCP:FC';
-                    break;
-                case 'tree':
-                    title = 'All Entries | SCP:FC';
-                    break;
-                case '404':
-                    title = 'Uhh | SCP:FC 404';
-                    break;
-                default:
-                    title = 'SCP:FC BETA WIKI';
-            }
-            titleElement.textContent = title;
-            document.title = title;
-        });
-    </script>
 {% seo %}
   </head>
 
