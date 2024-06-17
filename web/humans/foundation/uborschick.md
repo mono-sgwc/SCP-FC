@@ -48,7 +48,7 @@ Retreaving <span style="color: red">NO_ESCAPE.KILL</span>
 
 | <span style="color: red">DECRYPT</span> |
 | - |
-| <a href="../../other/decr.md" style="color: red">Decrypter link</span> |
+| <a href="../../other/decr" style="color: red">Decrypter link</a> |
 
 <p align="center">
     <img src="../../../assets/images/characters/Uborschick.png" width="500">
