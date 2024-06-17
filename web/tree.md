@@ -206,7 +206,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | <a href="./achivements/c" style="color:white">CLEANER</a> | <img src="../assets/images/achievements/achKingEd.png" title="CLEANER" width="50"/> | ✔️ |
 | <a href="./achivements/p" style="color:white">PLEONEXIA</a> | <img src="../assets/images/achievements/achTimer.png" title="PLEONEXIA" width="50"/> | ❌ |
 | <a href="./achivements/wwyd" style="color:white">WHY WON'T YOU DIE?</a> | <img src="../assets/images/achievements/achBox.png" title="WHY WON'T YOU DIE?" width="50"/> | ✔️ |
-| <a href="./achivements/tdk" style="color:white">THEY DON'T KNOW</a> | <img src="../assets/images/achievements/achO5.png" title="THEY DON'T KNOW" width="50"/> | ✔️ |
+| <a href="./achivements/tdk" style="color:white">THEY DON'T KNOW</a> | <img src="../assets/images/achievements/AchO5.png" title="THEY DON'T KNOW" width="50"/> | ✔️ |
 | ??? | ??? | ??? |
 | ??? | ??? | ??? |
 
