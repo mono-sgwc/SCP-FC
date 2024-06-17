@@ -1,7 +1,7 @@
 <p align=center>
-    <a href="../../../index">
+    <a href="../../">
         <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>
-    <a href="../../tree">
+    <a href="../tree">
         <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries"></a>
 </p>
 
@@ -18,8 +18,8 @@ This is very hard and needs something to lower all stats at once by a good amoun
 </p>
 
 <p align=center>
-    <a href="../../../index">
+    <a href="../../">
         <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>
-    <a href="../../tree">
+    <a href="../tree">
         <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries"></a>
 </p>

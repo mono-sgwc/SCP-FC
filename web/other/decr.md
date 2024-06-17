@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Encrypt & Decrypt</title>
+    <title>Decrypt</title>
     <style>
         body {
             background-color: #121212;
@@ -35,22 +35,18 @@
 </head>
 <body>
     <div class="container">
-        <h2>Encrypt & Decrypt</h2>
+        <h2>Decrypt</h2>
         <input type="text" id="textInput" placeholder="Enter Text">
-        <button onclick="encrypt()">Encrypt</button>
         <button onclick="decrypt()">Decrypt</button>
         <p id="result"></p>
     </div>
-
     <script>
         const secretKey = 'mySecretKey12345';
-
         function encrypt() {
             let text = document.getElementById('textInput').value;
             let encrypted = btoa(text.split('').map((char, i) => String.fromCharCode(char.charCodeAt(0) ^ secretKey.charCodeAt(i % secretKey.length))).join(''));
             document.getElementById('result').innerText = `Encrypted: ${encrypted}`;
         }
-
         function decrypt() {
             let encrypted = document.getElementById('textInput').value;
             let decrypted = atob(encrypted).split('').map((char, i) => String.fromCharCode(char.charCodeAt(0) ^ secretKey.charCodeAt(i % secretKey.length))).join('');

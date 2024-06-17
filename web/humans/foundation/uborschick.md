@@ -29,11 +29,26 @@ Retreaving <span style="color: red">NO_ESCAPE.KILL</span>
 | <span style="color: grey">SOUND</span> | <span style="color: grey">*Loud explosion*</span> |
 | <span style="color: red">Uberschick</span> | Good that this room is sound proof. |
 
+# <span style="color: red">Audiolog ██-██-████</span>
+
+| Logged Person | Context |
+| - | - |
+| █████ | How did you access the Files??? |
+| <span style="color: red">Uberschick</span> | I decoded the path and searched there onwards. |
+| CORRUPTED | CORRUPTED |
+| CORRUPTED | CORRUPTED |
+| CORRUPTED | CORRUPTED |
+| CORRUPTED | CORRUPTED |
+| CORRUPTED | CORRUPTED |
+| CORRUPTED | CORRUPTED |
+| CORRUPTED | CORRUPTED |
+| CORRUPTED | CORRUPTED |
+
 # <span style="color: red">EMPLOYEE STATS</span>
 
-| <span style="color: red">KILL</span> | <span style="color: red">KILL</span> | <span style="color: red">KILL</span> | <span style="color: red">KILL</span> | <span style="color: red">KILL</span> | 
-| - | - | - | - | - |
-| <span style="color: red">CTCrVmX3OT5PEaJq3c8wJ</span> | <span style="color: red">LHZDDVoVQiRxjOZO9k</span> | <span style="color: red">a6Pn4yf7NBLTlBM/le</span> | <span style="color: red">br232qfhRt</span> | <span style="color: red">l0eCbzssaiGzWi</span> |
+| <span style="color: red">DECRYPT</span> |
+| - |
+| <a href="../../other/decr.md" style="color: red">Decrypter link</span> |
 
 <p align="center">
     <img src="../../../assets/images/characters/Uborschick.png" width="500">

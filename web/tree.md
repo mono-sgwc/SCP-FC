@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="../index">
+    <a href="../">
         <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>
     <a href="./tree#scps">
         <img src="https://img.shields.io/badge/SCP'S-000000?style=for-the-badge" title="SCP's"/></a>
@@ -227,7 +227,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
 </p>
 
 <p align="center">
-    <a href="../index">
+    <a href="../">
         <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>
     <a href="./tree#scps">
         <img src="https://img.shields.io/badge/SCP'S-000000?style=for-the-badge" title="SCP's"/></a>
