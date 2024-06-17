@@ -1,36 +1,37 @@
 ---
 layout: default
 ---
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" id="page-description" content="">
-    <title>My GitHub Pages Site</title>
+    <meta name="description" content="This is the description for my GitHub Pages site.">
+    <title id="page-title">Default Title</title>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            const descriptionElement = document.getElementById('page-description');
+            const titleElement = document.getElementById('page-title');
             const path = window.location.pathname;
             const pageName = path.substring(path.lastIndexOf('/') + 1).replace('.html', '');
-            let description;
+            let title;
             switch(pageName) {
                 case 'index':
-                    description = 'This is the description for the home page.';
+                    title = 'Home Page';
                     break;
                 case 'about':
-                    description = 'This is the description for the about page.';
+                    title = 'About Us';
                     break;
                 case 'contact':
-                    description = 'This is the description for the contact page.';
+                    title = 'Contact Us';
                     break;
                 default:
-                    description = 'This is the default description for my site.';
+                    title = 'My Custom Tab Title';
             }
-            descriptionElement.setAttribute('content', description);
+            titleElement.textContent = title;
+            document.title = title;
         });
     </script>
-</head>
-
+</h
 
 <p align=center>
     <a href="./web/tree">
