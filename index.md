@@ -4,37 +4,8 @@ layout: default
 
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="This is the description for my GitHub Pages site.">
-    <title id="page-title">Default Title</title>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const titleElement = document.getElementById('page-title');
-            const path = window.location.pathname;
-            const pageName = path.substring(path.lastIndexOf('/') + 1).replace('.html', '');
-            let title;
-            switch(pageName) {
-                case 'index':
-                    title = 'Home Page';
-                    break;
-                case 'about':
-                    title = 'About Us';
-                    break;
-                case 'contact':
-                    title = 'Contact Us';
-                    break;
-                default:
-                    title = 'My Custom Tab Title';
-            }
-            titleElement.textContent = title;
-            document.title = title;
-        });
-    </script>
+    <title id="page-title">Main Page | SCP:FC</title>
 </head>
-<body>
-    <h1>Welcome to my GitHub Pages site!</h1>
-</body>
 </html>
 
 
