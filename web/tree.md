@@ -211,7 +211,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
 | <a href="./achivements/coc" style="color:white">CALL OF CTHULHU</a> | <img src="../assets/images/achievements/achKtulhu.png" title="CALL OF CTHULHU" width="50"/> | ❌ |
 | <a href="./achivements/ec" style="color:white">EDEN CLOCK</a> | <img src="../assets/images/achievements/achGOR.png" title="EDEN CLOCK" width="50"/> | ❌ |
 | <a href="./achivements/dod" style="color:white">DESCENDANT OF DARWIN</a> | <img src="../assets/images/achievements/achMonkey.png" title="DESCENDANT OF DARWIN" width="50"/> | ✔️ |
-| <a href="./achivements/ec" style="color:white">UTOPIA 25</a> | <img src="../assets/images/achievements/achStonks.png" title="UTOPIA 25" width="50"/> | ✔️ |
+| <a href="./achivements/u25" style="color:white">UTOPIA 25</a> | <img src="../assets/images/achievements/achStonks.png" title="UTOPIA 25" width="50"/> | ✔️ |
 | <a href="./achivements/anb" style="color:white">A NEW BEGINNING</a> | <img src="../assets/images/achievements/AchEd1.png" title="A NEW BEGINNING" width="50"/> | ✔️ |
 | <a href="./achivements/c" style="color:white">CLEANER</a> | <img src="../assets/images/achievements/achKingEd.png" title="CLEANER" width="50"/> | ✔️ |
 | <a href="./achivements/p" style="color:white">PLEONEXIA</a> | <img src="../assets/images/achievements/achTimer.png" title="PLEONEXIA" width="50"/> | ❌ |
