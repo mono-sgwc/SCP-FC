@@ -1,4 +1,4 @@
-<head>
+<body>
     <style>
         body {
             background-color: #121212;
@@ -29,8 +29,6 @@
             cursor: pointer;
         }
     </style>
-</head>
-<body>
     <div class="container">
         <h2>Decrypt</h2>
         <input type="text" id="textInput" placeholder="Enter Text">
@@ -51,4 +49,3 @@
         }
     </script>
 </body>
-</html>
