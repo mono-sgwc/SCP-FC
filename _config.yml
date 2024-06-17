@@ -8,7 +8,6 @@ favicon: "BETA_WIKI.png"
 post_search: true
 edit_page_button: true
 description: "Official beta wiki of SCP: Foundation Cronicles"
-page_title: SCP:FC BETA WIKI
 show_downloads: False
 google_analytics: G-1344DZ4TJK
 remote_theme: pages-themes/hacker@v0.2.0
