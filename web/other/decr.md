@@ -1,6 +1,4 @@
-
-
-
+<p align="center">DECRYPT AND ENCRYPT TOOL</p>
 
 <body>
     <style>
@@ -36,6 +34,7 @@
     <div class="container">
         <h2>Decrypt</h2>
         <input type="text" id="textInput" placeholder="Enter Text">
+        <button onclick="encrypt()">Encrypt</button>
         <button onclick="decrypt()">Decrypt</button>
         <p id="result"></p>
     </div>
