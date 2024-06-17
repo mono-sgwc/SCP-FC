@@ -1,6 +1,37 @@
 ---
 layout: default
 ---
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" id="page-description" content="">
+    <title>My GitHub Pages Site</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const descriptionElement = document.getElementById('page-description');
+            const path = window.location.pathname;
+            const pageName = path.substring(path.lastIndexOf('/') + 1).replace('.html', '');
+            let description;
+            switch(pageName) {
+                case 'index':
+                    description = 'This is the description for the home page.';
+                    break;
+                case 'about':
+                    description = 'This is the description for the about page.';
+                    break;
+                case 'contact':
+                    description = 'This is the description for the contact page.';
+                    break;
+                default:
+                    description = 'This is the default description for my site.';
+            }
+            descriptionElement.setAttribute('content', description);
+        });
+    </script>
+</head>
+
+
 <p align=center>
     <a href="./web/tree">
         <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/></a>
