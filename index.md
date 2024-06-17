@@ -31,7 +31,12 @@ layout: default
             document.title = title;
         });
     </script>
-</h
+</head>
+<body>
+    <h1>Welcome to my GitHub Pages site!</h1>
+</body>
+</html>
+
 
 <p align=center>
     <a href="./web/tree">
