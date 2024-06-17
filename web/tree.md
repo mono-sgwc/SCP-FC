@@ -1,6 +1,10 @@
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This is the description for my GitHub Pages site.">
     <title id="page-title">All Entries | SCP:FC</title>
+    <title>My GitHub Pages Site</title>
     <link rel="icon" href="BETA_WIKI.png" type="image/png">
 </head>
 </html>
