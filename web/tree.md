@@ -1,3 +1,10 @@
+<html lang="en">
+<head>
+    <title id="page-title">All Entries | SCP:FC</title>
+    <link rel="icon" href="BETA_WIKI.png" type="image/png">
+</head>
+</html>
+
 <p align="center">
     <a href="../">
         <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>

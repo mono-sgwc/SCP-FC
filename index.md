@@ -1,10 +1,7 @@
----
-layout: default
----
-
 <html lang="en">
 <head>
     <title id="page-title">Main Page | SCP:FC</title>
+    <link rel="icon" href="BETA_WIKI.png" type="image/png">
 </head>
 </html>
 
