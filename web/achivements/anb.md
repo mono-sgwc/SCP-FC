@@ -14,7 +14,7 @@ Get the <a href="../endings/1">first ending.</a>
 Kepp track of your tasks and they might lead you towards it.
 
 <p align="center">
-    <img src="../../assets/images/achievements/achEd1.png" title="A NEW BEGINNING" width="500">
+    <img src="../../assets/images/achievements/AchEd1.png" title="A NEW BEGINNING" width="500">
 </p>
 
 <p align=center>
