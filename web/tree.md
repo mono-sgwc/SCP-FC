@@ -141,7 +141,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
 
 | ENTRY ITEM | WARNINGS | LOGS | INCIDENTS | IMAGE | COMPLETED? |
 | --- | --- | --- | --- | --- | --- |
-| ~~<a href="./scp/apollyon/001-sk/001-01" style="color:PURPLE">SCP-001 SCARLET KING</a>~~ | ~~<span style="color: PURPLE">XK-CLASS SZENARIO</span>~~ | ~~0~~ | ~~0~~ | ~~<img src="../assets/images/misc/SpaceBack.png" title="SCP-001" width="50"/>~~ | ~~❌~~ |
+| ~~<a href="./scp/apollyon/001/001-01" style="color:PURPLE">SCP-001 SCARLET KING</a>~~ | ~~<span style="color: PURPLE">XK-CLASS SZENARIO</span>~~ | ~~0~~ | ~~0~~ | ~~<img src="../assets/images/misc/SpaceBack.png" title="SCP-001" width="50"/>~~ | ~~❌~~ |
 
 <p align="center">
     <a href="./tree#categories">
