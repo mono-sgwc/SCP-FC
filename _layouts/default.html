@@ -268,18 +268,12 @@
             document.title = title;
         });
     </script>
-    <style>
-        button {
-            cursor: not-allowed;
-        }
-    </style>
   </head>
 
 {% seo %}
   </head>
 
   <body>
-    <button id="login">Login</button>
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
@@ -293,8 +287,11 @@
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
           {% endif %}
         </section>
+        <button id="login1">Login</button>
       </div>
+      <button id="login2">Login</button>
     </header>
+    <button id="login3">Login</button>
 
     <div class="container">
       <section id="main_content">
