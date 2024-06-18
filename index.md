@@ -4,17 +4,42 @@
     <link rel="icon" href="BETA_WIKI.png" type="image/png">
 </head>
 </html>
-
-
 <p align=center>
     <a href="./web/tree">
         <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/></a>
 </p>
-<p align="center">
- <img width="250" src="./assets/images/misc/BETA_WIKI.png" title="beta_wiki"/>
-</p>
+<html lang="en">
+    <head>
+        <style>
+            #text {
+                display: none;
+                margin-top: 20px;
+                font-size: 18px;
+                color: #333;
+            }
+            img {
+                cursor: pointer;
+            }
+        </style>
+    </head>
+    <body>
+        <p align="center">
+            <img src="./BETA_WIKI.png" onclick="showText()"/>
+            <div id="text">BQ0nFRBISls5BA9UXB5HUhoafQIKBg0BKUsQXh1gd2VAPxBKFBcHWyQREVRAHFBQDgsqFRcXARgiCxI=</div>
+        </p>
+        <script>
+            function showText() {
+                var text = document.getElementById('text');
+                if (text.style.display === 'none') {
+                    text.style.display = 'block';
+                } else {
+                    text.style.display = 'none';
+                }
+            }
+        </script>
+    </body>
+</html>
 <h1 align="center">Welcome to the SCP: Foundation Chronicles Beta Wiki!</h1>
-
 
 Your Ultimate Guide to the SCP Universe
 
@@ -26,42 +51,19 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 # Whats new
 
-- 10 new entries
-- - SCP 500
-- - FBI
-- - O5-11
-- - SCP 111
-- - Assistant
-- - Scientist
-- - SCP 079
-- - SCP 391
-- - SCP 169
-- - Amnesiac
-
-- 3 new entries
-- - SCP-268
-- - SCP-155
-- - Head of medical department
-
-- SCP-049 Entry
-
-- SCP-035 Entry
-
-- Goc entry
-
-- head of security entry
-
-- SCP-Researcher entry
+- All SCP's ADDED
+- ALL ACHIVEMENTS ADDED
 
 # Important Articles
 <a href="./web/tree">
     <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/>
 </a>
 
-| <a href="./web/humans/foundation/janitor"  style="color: white">Janitor</a> | <a href="./web/tree#characters" style="color: white">Characters</a> | <a href="./web/scp/safe/330" style="color: green">SCP-330</a> |
-|---|---|---|
-| <img src="./assets/images/characters/cleaner.jpg" title="Janitor" width="150"/> | <img src="./assets/images/misc/Characters.webp" title="Characters" width="150"/> | <img src="./assets/images/scp/safe/330/SCP_330.jpg" title="SCP-330" width="150"/> |
-| The Janitor | Characters | Aka <span style="color: red">Take two</span> |
+| ARTICLE | THUMBNAIL |
+| - | - |
+| <a href="./web/humans/foundation/janitor"  style="color: white">Janitor</a> | <img src="./assets/images/characters/cleaner.jpg" title="Janitor" width="150"/> |
+| <a href="./web/tree#characters" style="color: white">Characters</a> | <img src="./assets/images/misc/Characters.webp" title="Characters" width="150"/> |
+| <a href="./web/tree#achivements" style="color: white">Achivements</a> | <img src="./assets/images/achievements/achievements.png" title="Achivements" width="150"/> |
 
 # REGULAR WIKI
 
