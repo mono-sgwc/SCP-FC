@@ -58,10 +58,10 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
     <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/>
 </a>
 
-| <a href="./web/scp/safe/330" style="color: green">SCP-330</a> | <a href="./web/tree#characters" style="color: white">Characters</a> | <a href="./web/humans/foundation/janitor"  style="color: white">Janitor</a> |
+| <a href="./web/humans/foundation/janitor"  style="color: white">Janitor</a> | <a href="./web/tree#characters" style="color: white">Characters</a> | <a href="./web/scp/safe/330" style="color: green">SCP-330</a> |
 |---|---|---|
-| <img src="./assets/images/scp/safe/330/SCP_330.jpg" title="SCP-330" width="150"/> | <img src="./assets/images/misc/Characters.webp" title="Characters" width="150"/> | <img src="./assets/images/characters/cleaner.jpg" title="Janitor" width="150"/> |
-| Aka <span style="color: red">Take two</span> | Characters | The Janitor |
+| <img src="./assets/images/characters/cleaner.jpg" title="Janitor" width="150"/> | <img src="./assets/images/misc/Characters.webp" title="Characters" width="150"/> | <img src="./assets/images/scp/safe/330/SCP_330.jpg" title="SCP-330" width="150"/> |
+| The Janitor | Characters | Aka <span style="color: red">Take two</span> |
 
 # REGULAR WIKI
 
@@ -74,79 +74,3 @@ Official Regular Wiki:
     <a href="./web/tree">
         <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/></a>
 </p>
-
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-``` 
-BQ0nFRBISls5BA9UXB5HUhoafQIKBg0BKUsQXh1gd2VAPxBKFBcHWyQREVRAHFBQDgsqFRcXARgiCxI=
-```
