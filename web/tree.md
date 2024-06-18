@@ -26,17 +26,17 @@
     <a href="./tree#endings">
         <img src="https://img.shields.io/badge/ENDINGS-000000?style=for-the-badge" title="ENDINGS"/></a>
 </p>
-<h1 align="center">BETA WIKI ENTRIES</h1>
+<h1 align="center" tabindex="0">BETA WIKI ENTRIES</h1>
 
 Here are all sites listed, that are in this Wiki.
 
 Most of the text is clickable and contains hyperlinks to their page/category
 
-# NEW
+<h2 id="new">NEW</h2>
 
 - Many wiki entries incl. scp's, achivements.
 
-# CATEGORIES
+<h2 id="categories" tabindex="1">CATEGORIES</h2>
 
 <table>
     <thead>
@@ -136,9 +136,9 @@ Most of the text is clickable and contains hyperlinks to their page/category
     </tbody>
 </table>
 
-# SCP's
+<h2 id="scps" tabindex="2">SCP's</h2>
 
-## <span style="color: green">SAFE</span>
+<h3 style="color: green" id="safe">SAFE</h3>
 
 <table>
     <thead>
@@ -352,7 +352,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
         <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
 </p>
 
-## <span style="color: yellow">EUCLID</span>
+<h3 style="color: yellow" id="euclid">EUCLID</h3>
 
 <table>
     <thead>
@@ -526,7 +526,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
         <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
 </p>
 
-## <span style="color: red">KETER</span>
+<h3 style="color: red" id="keter">KETER</h3>
 
 <table>
     <thead>
@@ -612,7 +612,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
         <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
 </p>
 
-# <span style="color: purple">APPOLLYON</span>
+<h3 style="color: purple" id="apollyon">APPOLLYON</h3>
 <table>
     <thead>
       <tr>
@@ -641,7 +641,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
         <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
 </p>
 
-# CHARACTERS
+<h2 tabindex="3" id="characters">CHARACTERS</h2>
 
 <table>
     <thead>
