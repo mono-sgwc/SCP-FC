@@ -601,7 +601,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
         <td><span style="color: red">SENTIENT AND VIOLENT</span></td>
         <td>0</td>
         <td>0</td>
-        <td><img src="../assets/images/scp/keter/scp-682.png" title="SCP-682" width="50"></td>
+        <td><img src="../assets/images/scp/keter/SCP-682.png" title="SCP-682" width="50"></td>
         <td>❌</td>
       </tr>
     </tbody>
