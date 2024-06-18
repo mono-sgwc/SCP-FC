@@ -18,7 +18,7 @@
                 color: #333;
             }
             img {
-                cursor: pointer;
+                cursor: not-allowed;
             }
         </style>
     </head>
