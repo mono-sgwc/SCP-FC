@@ -270,17 +270,17 @@
         });
     </script>
     <style>
-        .button button {
+        .login-signup-form {
+            text-align: left;
+            display: block;
+            width: 25%;
             background-color: #333333;
-        border: none;
-        color: #ffffff;
-        }
-        .button button:hover {
-            background-color: #555555;
+            border: 1px solid #555555;
+            color: #ffffff;   
         }
     </style>
   </head>
-
+  
 {% seo %}
   </head>
 
@@ -298,12 +298,16 @@
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
           {% endif %}
         </section>
-        <div class="button">
-            <p align="right">
-                <button id="login1" style="cursor:pointer" href="/login">Login</button>
-                <button id="login2" style="cursor:pointer" href="/signup">Sign up</button>
-            </p>
-        </div>  
+        <div class="login-signup-form">
+            <form action="/submit" method="post">
+                <p align="right">
+                    <label for="login-signup">Name:</label>
+                    <input type="text" id="account" name="account" required>
+                    <input type="text" id="password" name="password" required>
+                    <button type="login">Login/Sign up</button>
+                </p>
+            </form>
+        </div>
       </div>
     </header>
 
