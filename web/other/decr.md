@@ -39,7 +39,7 @@
         <p id="result"></p>
     </div>
     <script>
-        const secretKey = 'mySecretKey12345';
+        const secretKey = '69re5841g98edb5691rt95h1b958fr12tgb9d';
         function encrypt() {
             let text = document.getElementById('textInput').value;
             let encrypted = btoa(text.split('').map((char, i) => String.fromCharCode(char.charCodeAt(0) ^ secretKey.charCodeAt(i % secretKey.length))).join(''));

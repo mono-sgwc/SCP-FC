@@ -25,7 +25,7 @@
     <body>
         <p align="center">
             <img src="./BETA_WIKI.png" onclick="showText()"/>
-            <div id="text">BQ0nFRBISls5BA9UXB5HUhoafQIKBg0BKUsQXh1gd2VAPxBKFBcHWyQREVRAHFBQDgsqFRcXARgiCxI=</div>
+            <div id="text">Xk0GFUYCGx4VWE4ACk9GUU5SXBNQQQBEABdcV0khcmJZISEWE1NbXQpBUFFDSF1dBhYbRUJcVR4dV14=</div>
         </p>
         <script>
             function showText() {
