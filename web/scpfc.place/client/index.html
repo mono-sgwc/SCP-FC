@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Primary Meta Tags -->
+        <title>(ar)r.place</title>
+        <meta name="title" content="(ar)r.place">
+        <meta name="description" content="collaborative pixel art">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://arr.place/">
+        <meta property="og:title" content="(ar)r.place">
+        <meta property="og:description" content="collaborative pixel art">
+        <meta property="og:image" content="https://arr.place/img/banner-pixel.jpg">
+
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://arr.place/">
+        <meta property="twitter:title" content="(ar)r.place">
+        <meta property="twitter:description" content="collaborative pixel art">
+        <meta property="twitter:image" content="https://arr.place/img/banner-pixel.jpg">
+
+        <link rel="stylesheet" href="style.css?v=28">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/solid.css" integrity="sha384-Tv5i09RULyHKMwX0E8wJUqSOaXlyu3SQxORObAI08iUwIalMmN5L6AvlPX2LMoSE" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/fontawesome.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous"/>
+
+        <link rel="manifest" href="manifest.json">
+
+        <meta name=viewport content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    </head>
+    <body>
+        <div id="main-container">
+            <div id="controls-container" class="overlay" style="display: none">
+                <div id="colors-container">
+                </div>
+                <div id="action-container">
+                    <button id="color-cancel-button" title="Cancel"><i class="fas fa-times"></i></button>
+                    <button id="color-place-button" disabled title="Place"><i class="fas fa-check"></i></button>
+                </div>
+            </div>
+            <div id="timer-container" style="display: none" class="overlay">
+                <span id="timer">00:00</span>
+            </div>
+            <div id="position-container" class="overlay">
+                <span id="position-info"></span>
+            </div>
+            <div id="info-container" class="overlay">
+                <span><i class="fas fa-eye"></i> <span id="viewers">0</span></span><br/>
+                <span><i class="fas fa-paint-brush"></i> <span id="active">0</span></span>
+            </div>
+
+            <div id="camera">
+                <div id="position">
+                    <div id="zoom">
+                        <div id="selection-container" style="display: none">
+                            <div id="selection-bubble" style="display: none">
+                                <div id="selection-text-container">
+                                    <div id="selection-text">
+                                        <span id="modified-time-text"><i class="fas fa-history"></i> <span id="modified-time"></span></span><br>
+                                        <span id="modified-user-text"><i class="fas fa-user"></i> <span id="modified-user"></span></span>
+                                    </div>
+                                </div>
+                                <svg width="512" height="256" viewBox="0 0 135.46666 67.733336" version="1.1" id="svg3310" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="info-bubble.svg" xmlns="http://www.w3.org/2000/svg"
+                                     xmlns:svg="http://www.w3.org/2000/svg">
+                                    <defs id="defs3307">
+                                        <rect x="44.158069" y="44.710044" width="446.54847" height="151.79336" id="rect9459"></rect>
+                                    </defs>
+                                    <g id="layer1">
+                                        <rect style="fill:#f0f0f0;stroke:#f0f0f0;stroke-width:2.64583;fill-opacity:1;stroke-opacity:1;stroke-linejoin:round" id="rect3457" width="132.82083" height="54.504169" x="1.322915" y="1.322915"></rect>
+                                        <path style="fill:#f0f0f0;stroke:#f0f0f0;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" d="M 59.266667,56.091667 67.733333,67.744088 76.2,56.091667 Z" id="path3572" sodipodi:nodetypes="cccc"></path>
+                                    </g>
+                                </svg>
+                            </div>
+
+                            <div id="selection-wrapper">
+                                <svg id="selection-svg" width="100" height="100" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+                                    <g id="layer1">
+                                        <path style="fill:none;stroke:#000000;stroke-width: 50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 100,0 H 0 v 100" id="path1221"></path>
+                                        <path style="fill:none;stroke:#000000;stroke-width: 50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 200,0 h 100 v 100" id="path1221-5"></path>
+                                        <path style="fill:none;stroke:#000000;stroke-width: 50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 100,300 H 0 v -100" id="path1221-6"></path>
+                                        <path style="fill:none;stroke:#000000;stroke-width: 50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 200,300 h 100 v -100" id="path1221-5-0"></path>
+                                    </g>
+                                </svg>
+                            </div>
+                        </div>
+                        <div id="canvas-container" style="transform: scale(100)">
+                            <canvas id="canvas"></canvas>
+
+                            <div id="credits">
+                                <span>based on reddit's <a href="https://reddit.com/r/place" target="_blank">r/place</a></span><br/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="dist/bundle.js?v=101"></script>
+        <script src="https://www.google.com/recaptcha/api.js?render=6LfTwYEfAAAAAJw8Dv8S0EGd3ytq7nQcVGsCfe9n"></script>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "name": "scpfc.place",
+  "short_name": "place",
+  "description": "SCP:FC Beta wiki canvas.",
+  "icons": [
+    {
+      "src": "/img/BETA_WIKI.png",
+      "sizes": "32x32"
+    }
+  ],
+  "background_color": "#383838",
+  "start_url": "/?utm_source=homescreen",
+  "display": "fullscreen",
+  "orientation": "any"
+}
