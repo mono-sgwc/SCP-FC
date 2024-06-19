@@ -1,0 +1,18 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini r/place</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Mini r/place</h1>
+    <div id="color-picker">
+        <label for="color-select">Choose a color:</label>
+        <input type="color" id="color-select" value="#000000">
+    </div>
+    <div id="canvas-container">
+        <canvas id="place-canvas" width="500" height="500"></canvas>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
