@@ -28,9 +28,9 @@
 </p>
 <h1 align="center" tabindex="0">BETA WIKI ENTRIES</h1>
 
-Here are all sites listed, that are in this Wiki.
+<p>are all sites listed, that are in this Wiki.</p>
 
-Most of the text is clickable and contains hyperlinks to their page/category
+<p>Most of the text is clickable and contains hyperlinks to their page/category</p>
 
 <h2 id="new">NEW</h2>
 
@@ -751,7 +751,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
         <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
 </p>
 
-# ITEMS
+<h2 id="items" tabindex="4">ITEMS</h2>
 
 <table>
     <thead>
@@ -775,7 +775,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
         <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
 </p>
 
-# EVENTS
+<h2 id="events" tabindex="5">EVENTS</h2>
 
 <table>
     <thead>
@@ -801,7 +801,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
         <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
 </p>
 
-# DEATHS
+<h2 id="deaths" tabindex="6">DEATHS</h2>
 
 <table>
     <thead>
@@ -825,7 +825,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
         <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
 </p>
 
-# ACHIVEMENTS
+<h2 id="achivements" tabindex="7">ACHIVEMENTS</h2>
 
 <table>
     <thead>
@@ -909,7 +909,7 @@ Most of the text is clickable and contains hyperlinks to their page/category
         <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
 </p>
 
-# ENDINGS
+<h2 id="endings" tabindex="8">ENDINGS</h2>
 
 <table>
     <thead>

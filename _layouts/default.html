@@ -15,6 +15,7 @@
             const path = window.location.pathname;
             const pageName = path.substring(path.lastIndexOf('/') + 1).replace('.html', '');
             
+
             let title;
             switch(pageName) {
                 case 'index':
@@ -268,6 +269,16 @@
             document.title = title;
         });
     </script>
+    <style>
+        .button button {
+            background-color: #333333;
+        border: none;
+        color: #ffffff;
+        }
+        .button button:hover {
+            background-color: #555555;
+        }
+    </style>
   </head>
 
 {% seo %}
@@ -287,7 +298,10 @@
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
           {% endif %}
         </section>
-        <button id="login1" style="cursor: not-allowed;">Login</button>
+        <div class="button">
+            <button id="login1" style="cursor:pointer" align="right">Login</button>
+            <button id="login2" style="cursor:pointer" align="right">Sign Up</button>
+        </div>  
       </div>
     </header>
 
