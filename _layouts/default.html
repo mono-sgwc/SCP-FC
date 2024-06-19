@@ -271,12 +271,28 @@
     </script>
     <style>
         .login-signup-form {
+            gap: 10px;
+        }
+        .login-signup-form input {
             text-align: left;
             display: block;
             width: 25%;
             background-color: #333333;
             border: 1px solid #555555;
-            color: #ffffff;   
+            color: #ffffff;
+            margin-top: 10px;
+        }
+        .login-signup-form button {
+            margin-top: 10px;
+            background-color: #333333;
+            border: none;
+            color: #ffffff;
+            padding: 10px 20px;
+            font-size: 18px;
+            cursor: pointer;
+        }
+        #submitlogin:hover {
+            background-color: #555555;
         }
     </style>
   </head>
@@ -304,7 +320,7 @@
                     <label for="login-signup">Name:</label>
                     <input type="text" id="account" name="account" required>
                     <input type="text" id="password" name="password" required>
-                    <button type="login">Login/Sign up</button>
+                    <button type="login" id="submitlogin">Login/Sign up</button>
                 </p>
             </form>
         </div>
