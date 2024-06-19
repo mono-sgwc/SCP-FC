@@ -85,7 +85,7 @@
         <td><span style="color:grey">0/8</span></td>
       </tr>
       <tr>
-        <td><a href="./tree#appollyon" style="color:purple">APPOLYON</a></td>
+        <td><a href="./tree#apollyon" style="color:purple">APPOLYON</a></td>
         <td><span style="color:grey">0</span></td>
         <td><span style="color:grey">0</span></td>
         <td><span style="color:grey"><del>1/1</del> 0/0</span></td>
@@ -612,7 +612,7 @@
         <img src="https://img.shields.io/badge/BACK_TO_THE_CATEGORIES-ffffff?style=for-the-badge" title="BACK TO THE CATEGORIES"/></a>
 </p>
 
-<h3 style="color: purple" id="apollyon">APPOLLYON</h3>
+<h3 style="color: purple" id="apollyon">APOLLYON</h3>
 <table>
     <thead>
       <tr>
