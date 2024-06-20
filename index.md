@@ -6,25 +6,12 @@
 </html>
 <p align=center>
     <a href="./web/tree">
-        <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/></a>
+        <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries" style="cursor: pointer;"/></a>
 </p>
 <html lang="en">
-    <head>
-        <style>
-            #text {
-                display: none;
-                margin-top: 20px;
-                font-size: 18px;
-                color: #333;
-            }
-            img {
-                cursor: pointer;
-            }
-        </style>
-    </head>
     <body>
         <p align="center">
-            <img src="./BETA_WIKI.png" onclick="showText()"/>
+            <img src="./BETA_WIKI.png" onclick="showText()" style="cursor: pointer;"/>
             <div id="text">Xk0GFUYCGx4VWE4ACk9GUU5SXBNQQQBEABdcV0khcmJZISEWE1NbXQpBUFFDSF1dBhYbRUJcVR4dV14=</div>
         </p>
         <script>
@@ -56,8 +43,7 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 
 # Important Articles
 <a href="./web/tree">
-    <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/>
-</a>
+    <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries" style="cursor: pointer;"/></a>
 
 | ARTICLE | THUMBNAIL |
 | - | - |
@@ -70,9 +56,9 @@ We're a collaborative community website about SCP: Foundation Chronicles that an
 Official Regular Wiki:
 <p>
     <a href="https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki">
-        <img src="https://img.shields.io/badge/Released_Wiki-000000?style=for-the-badge&labelColor=ffffff&color=ffffff" title="Release Wiki"/></a>
+        <img src="https://img.shields.io/badge/Released_Wiki-000000?style=for-the-badge&labelColor=ffffff&color=ffffff" title="Release Wiki" style="cursor: pointer;"/></a>
 </p>
 <p align=center>
     <a href="./web/tree">
-        <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries"/></a>
+        <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries" style="cursor: pointer;"/></a>
 </p>
