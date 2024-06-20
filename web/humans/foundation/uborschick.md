@@ -1,6 +1,6 @@
 <p align=center>
-    <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=ff0000&color=ff9999" title="Main Page"/>
-    <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=ff0000&color=ff9999" title="All entries">
+    <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=ff0000&color=ff9999" title="Main Page" style="cursor: not-allowed;"/>
+    <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=ff0000&color=ff9999" title="All entries" style="cursor: not-allowed;"/>
 </p>
 <h1 align="center" style="color: red">NO ESCAPE</h1>
 
@@ -54,6 +54,6 @@ Retreaving <span style="color: red">NO_ESCAPE.KILL</span>
     <img src="../../../assets/images/characters/Uborschick.png" width="500">
 </p>
 <p align=center>
-    <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=ff0000&color=ff9999" title="Main Page"/>
-    <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=ff0000&color=ff9999" title="All entries">
+    <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=ff0000&color=ff9999" title="Main Page" style="cursor: not-allowed;"/>
+    <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=ff0000&color=ff9999" title="All entries" style="cursor: not-allowed;"/>
 </p>

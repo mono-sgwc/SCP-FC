@@ -1,8 +1,8 @@
 <p align=center>
     <a href="../../">
-        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>
+        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page" style="cursor: pointer;"/></a>
     <a href="../tree">
-        <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries"></a>
+        <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries" style="cursor: pointer;"></a>
 </p>
 
 <h1 align="center">WHY WON'T YOU DIE?</h1>
@@ -17,7 +17,7 @@ Survive death 14 times.
 
 <p align=center>
     <a href="../../">
-        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page"/></a>
+        <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page" style="cursor: pointer;"/></a>
     <a href="../tree">
-        <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries"></a>
+        <img src="https://img.shields.io/badge/GO_TO-ALL_ENTRIES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="All entries" style="cursor: pointer;"></a>
 </p>
