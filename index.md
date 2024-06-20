@@ -12,12 +12,11 @@
     <body>
         <p align="center">
             <img src="./BETA_WIKI.png" onclick="showText()" style="cursor: help;"/>
-            <div id="text">Xk0GFUYCGx4VWE4ACk9GUU5SXBNQQQBEABdcV0khcmJZISEWE1NbXQpBUFFDSF1dBhYbRUJcVR4dV14=</div>
+            <div id="text" style="display: none;">Xk0GFUYCGx4VWE4ACk9GUU5SXBNQQQBEABdcV0khcmJZISEWE1NbXQpBUFFDSF1dBhYbRUJcVR4dV14=</div>
         </p>
         <script>
             function showText() {
                 var text = document.getElementById('text');
-                text.style.showText=false
                 if (text.style.display === 'none') {
                     text.style.display = 'block';
                 } else {
