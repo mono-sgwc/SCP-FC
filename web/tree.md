@@ -626,7 +626,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><del><a href="./scp/apollyon/001/001-01" style="color:PURPLE">SCP-001 SCARLET KING</a></del></td>
+        <td><del><a href="./scp/apollyon/001/001-01" style="color:PURPLE; cursor:not-allowed">SCP-001 SCARLET KING</a></del></td>
         <td><del><span style="color: PURPLE">XK-CLASS SZENARIO</span></del></td>
         <td><del>0</del></td>
         <td><del>0</del></td>

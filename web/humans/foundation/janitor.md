@@ -35,7 +35,7 @@ Retreaving janitor_13125.dmx
 
 <p align="center">
     <a href="./uborschick">
-        <img src="../../../assets/images/characters/Uborschick.png" title="???" width="500" style="cursor: pointer;"/></a>
+        <img src="../../../assets/images/characters/Uborschick.png" title="???" width="500" style="cursor: help;"/></a>
 </p>
 <p align=center>    <a href="../../../">
         <img src="https://img.shields.io/badge/GO_TO-MAIN_PAGE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff" title="Main Page" style="cursor: pointer;"/></a>
