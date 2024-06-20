@@ -17,6 +17,7 @@
         <script>
             function showText() {
                 var text = document.getElementById('text');
+                text.style.showText=false
                 if (text.style.display === 'none') {
                     text.style.display = 'block';
                 } else {
