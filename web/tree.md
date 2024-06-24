@@ -186,7 +186,7 @@
       </tr>
       <tr>
         <td><a href="./scp/safe/215" style="color:green">SCP-215</a></td>
-        <td><span style="color: yellow">MEMETIC HAZARD</span></td>
+        <td><img src="../assets/images/scp/tags/mementic.png" title="MEMETIC HAZARD" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/safe/scp-215.png" title="SCP-215" width="50"></td>
@@ -234,7 +234,7 @@
       </tr>
       <tr>
         <td><a href="./scp/safe/343" style="color:green">SCP-343</a></td>
-        <td><span style="color: yellow">SENTIENT OBJECT, REALITY-BENDING ABILITIES</span></td>
+        <td><span style="color: yellow">SENTIENT OBJECT, <img src="../assets/images/scp/tags/hazardSpace.png" title="REALITY BENDING PROPERTIES" width="50"/><img></span></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/safe/r_scp-343.jpg" title="SCP-343" width="50"></td>
@@ -282,7 +282,7 @@
       </tr>
       <tr>
         <td><a href="./scp/safe/696" style="color:green">SCP-696</a></td>
-        <td><span style="color: yellow">NONSTANDARD SPACETIME</span></td>
+        <td><img src="../assets/images/scp/tags/hazardSpace.png" title="NONSTANDARD SPACETIME" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/safe/scp-696.png" title="SCP-696" width="50"></td>
@@ -290,7 +290,7 @@
       </tr>
       <tr>
         <td><a href="./scp/safe/714" style="color:green">SCP-714</a></td>
-        <td><span style="color: yellow">MEMETIC HAZARD</span></td>
+        <td><img src="../assets/images/scp/tags/mementic.png" title="MEMETIC HAZARD" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/safe/scp714.png" title="SCP-714" width="50"></td>
@@ -298,7 +298,7 @@
       </tr>
       <tr>
         <td><a href="./scp/safe/769" style="color:green">SCP-769</a></td>
-        <td><span style="color: yellow">BIOLOGICAL HAZARD</span></td>
+        <td><img src="../assets/images/scp/tags/hazardBio.png" title="BIOHAZARD" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/safe/scp-769.png" title="SCP-769" width="50"></td>
@@ -306,7 +306,7 @@
       </tr>
       <tr>
         <td><a href="./scp/safe/832" style="color:green">SCP-832</a></td>
-        <td><span style="color: yellow">NONSTANDARD SPACETIME</span></td>
+        <td><img src="../assets/images/scp/tags/hazardSpace.png" title="NONSTANDARD SPACETIME" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/safe/scp-832.png" title="SCP-832" width="50"></td>
@@ -314,7 +314,7 @@
       </tr>
       <tr>
         <td><a href="./scp/safe/912" style="color:green">SCP-912</a></td>
-        <td><span style="color: yellow">NONSTANDARD SPACETIME</span></td>
+        <td><img src="../assets/images/scp/tags/hazardSpace.png" title="NONSTANDARD SPACETIME" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/safe/scp-912.png" title="SCP-912" width="50"></td>
@@ -322,7 +322,7 @@
       </tr>
       <tr>
         <td><a href="./scp/safe/914" style="color:green">SCP-914</a></td>
-        <td><span style="color: yellow">NONSTANDARD SPACETIME</span></td>
+        <td><img src="../assets/images/scp/tags/hazardSpace.png" title="NONSTANDARD SPACETIME" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/safe/SCP_914.jpg" title="SCP-914" width="50"></td>
@@ -338,7 +338,7 @@
       </tr>
       <tr>
         <td><a href="./scp/safe/1025" style="color:green">SCP-1025</a></td>
-        <td><span style="color: yellow">BIOLOGICAL HAZARD</span></td>
+        <td><img src="../assets/images/scp/tags/hazardBio.png" title="BIOHAZARD" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/safe/1025/SCP_1025.jpg" title="SCP-1025" width="50"></td>
@@ -424,7 +424,7 @@
       </tr>
       <tr>
         <td><a href="./scp/euclid/158" style="color:yellow">SCP-158</a></td>
-        <td><span style="color: yellow">NONSTANDARD SPACETIME</span></td>
+        <td><img src="../assets/images/scp/tags/hazardSpace.png" title="NONSTANDARD SPACETIME" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/euclid/r_scp-158.jpg" title="SCP-158" width="50"></td>
@@ -448,7 +448,7 @@
       </tr>
       <tr>
         <td><a href="./scp/euclid/184" style="color:yellow">SCP-184</a></td>
-        <td><span style="color: yellow">NONSTANDARD SPACETIME</span></td>
+        <td><img src="../assets/images/scp/tags/hazardSpace.png" title="NONSTANDARD SPACETIME" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/euclid/184/r_scp-184.jpg" title="SCP-184" width="50"></td>
@@ -512,7 +512,7 @@
       </tr>
       <tr>
         <td><a href="./scp/euclid/935" style="color:yellow">SCP-935</a></td>
-        <td><span style="color: yellow">NONSTANDARD SPACETIME</span></td>
+        <td><img src="../assets/images/scp/tags/hazardSpace.png" title="NONSTANDARD SPACETIME" width="50"/></td>
         <td>0</td>
         <td>0</td>
         <td><img src="../assets/images/scp/euclid/scp-935.png" title="SCP-935" width="50"></td>
