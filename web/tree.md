@@ -85,7 +85,7 @@
         <td><span style="color:grey">0/8</span></td>
       </tr>
       <tr>
-        <td><a href="./tree#apollyon" style="color:purple">APPOLYON</a></td>
+        <td><a href="./tree#apollyon" style="color:purple">APOLLYON</a></td>
         <td><span style="color:grey">0</span></td>
         <td><span style="color:grey">0</span></td>
         <td><span style="color:grey"><del>1/1</del> 0/0</span></td>
