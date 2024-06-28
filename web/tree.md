@@ -660,7 +660,7 @@
         <td><span style="color: green">SCPF</span></td>
         <td>0</td>
         <td>0</td>
-        <td><img src="../assets/images/characters/O5_11.jpg" title="Janitor" width="50"></td>
+        <td><img src="../assets/images/characters/O5_11.jpg" title="05-11" width="50"></td>
         <td>❌</td>
       </tr>
       <tr>
@@ -668,7 +668,15 @@
         <td><span style="color: green">SCPF</span></td>
         <td>0</td>
         <td>0</td>
-        <td><img src="../assets/images/characters/CardAssistantN2.jpg" title="Janitor" width="50"></td>
+        <td><img src="../assets/images/characters/CardAssistantN2.jpg" title="assistant" width="50"></td>
+        <td>❌</td>
+      </tr>
+      <tr>
+        <td><a href="./humans/foundation/s21d" style="color:white">DIRECTOR OF SITE 21</a></td>
+        <td><span style="color: green">SCPF</span></td>
+        <td>0</td>
+        <td>0</td>
+        <td><img src="../assets/images/characters/Director_Zone_21.jpg" title="Director of site 21" width="50"></td>
         <td>❌</td>
       </tr>
       <tr>
@@ -700,7 +708,7 @@
         <td><span style="color: green">SCPF</span></td>
         <td>0</td>
         <td>0</td>
-        <td><img src="../assets/images/characters/CardScientistGen4_008.jpg" title="Head of security" width="50"></td>
+        <td><img src="../assets/images/characters/CardScientistGen4_008.jpg" title="Head of scientific dep." width="50"></td>
         <td>❌</td>
       </tr>
       <tr>
