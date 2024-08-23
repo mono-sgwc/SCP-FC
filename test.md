@@ -1,4 +1,4 @@
-<img src="./assets/images/misc/Characters.webp" title="Characters" height="50"/>
+<img src="./assets/images/misc/Characters.webp" title="Characters" width="150" height="500"/>
 <img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:alias">
 <img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:all-scroll">
 
