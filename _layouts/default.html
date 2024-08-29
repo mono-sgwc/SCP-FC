@@ -300,12 +300,6 @@
         #submitlogin:hover {
             background-color: #555555;
         }
-        .sidebar {
-            width: 250px;
-            height: 100vh;
-            padding: 20px;
-            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
-        }
     </style>
   </head>
   
@@ -329,13 +323,14 @@
       </div>
     </header>
 
+    <div class="sidebar">
+        <iframe src="https://ptb.discord.com/widget?id=1166418158085734441&theme=dark" width="500" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    <p>test</p>
+    </div>
     <div class="container">
       <section id="main_content">
         {{ content }}
       </section>
-    </div>
-    <div class="sidebar">
-        <iframe src="https://ptb.discord.com/widget?id=1166418158085734441&theme=dark" width="225" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     </div>
   </body>
 </html>
