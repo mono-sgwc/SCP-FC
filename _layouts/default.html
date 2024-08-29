@@ -275,32 +275,6 @@
             document.title = title;
         });
     </script>
-    <style>
-        .login-signup-form {
-            gap: 10px;
-        }
-        .login-signup-form input {
-            text-align: left;
-            display: block;
-            width: 25%;
-            background-color: #333333;
-            border: 1px solid #555555;
-            color: #ffffff;
-            margin-top: 10px;
-        }
-        .login-signup-form button {
-            margin-top: 10px;
-            background-color: #333333;
-            border: none;
-            color: #ffffff;
-            padding: 10px 20px;
-            font-size: 18px;
-            cursor: pointer;
-        }
-        #submitlogin:hover {
-            background-color: #555555;
-        }
-    </style>
   </head>
   
 {% seo %}
@@ -328,9 +302,19 @@
         {{ content }}
       </section>
     </div>
-    <div class="sidebar">
+    <aside>
+        <h2>Seitenleiste</h2>
         <iframe src="https://ptb.discord.com/widget?id=1166418158085734441&theme=dark" width="500" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-    <p>test</p>
-    </div>
+        <p>test</p>
+        <details>
+            <summary>summary</summary>
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+                <li><a href="#">Link 4</a></li>
+            </ul>
+        </details>
+    </aside>
   </body>
 </html>

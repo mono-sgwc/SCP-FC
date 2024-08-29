@@ -26,17 +26,27 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  display: flex;
 }
 
-.sidebar {
-  width: 500px;
+aside {
+  width: 250px;
   background: $body-background url("../images/bkg.png") 0 0;
   color: $body-foreground;
-  height: 100vh;
+  height: 100vh; /* Vollbildhöhe */
   padding: 20px;
   box-shadow: 2px 0 5px rgba(0,0,0,0.1);
 }
 
+aside a {
+  color: $body-foreground;
+  text-decoration: none;
+}
+
+aside a:hover {
+  color: $body-foreground;
+  text-decoration: underline;
+}
 /* General & 'Reset' Stuff */
 
 .container {
@@ -113,7 +123,10 @@ header h2 {
 #main_content {
   width: 100%;
   -webkit-font-smoothing: antialiased;
+  flex-grow: 1;
+  padding: 20px;
 }
+
 section img {
   max-width: 100%
 }
