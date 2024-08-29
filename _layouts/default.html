@@ -280,13 +280,31 @@
             margin: 0;
             font-family: Arial, sans-serif;
             display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        header {
+            width: 100%;
+        }
+
+        main {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        #main_content {
+            flex: 1;
+            overflow-y: auto;
         }
     </style>
   </head>
   
 {% seo %}
+
   </head>
-    <header>
+<>
+  <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -301,6 +319,7 @@
         </section>
       </div>
     </header>
+    <main>
     <aside>
         <h2>sidebar</h2>
         <p>test</p>
@@ -315,11 +334,11 @@
         </details>
         <iframe src="https://ptb.discord.com/widget?id=1166418158085734441&theme=dark" align="center" width="300" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     </aside>
-    <body>
     <div class="container">
       <section id="main_content">
         {{ content }}
       </section>
     </div>
+</main>
   </body>
 </html>
