@@ -24,6 +24,15 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+.sidebar {
+  width: 250px;
+  background: $body-background url("../images/bkg.png") 0 0;
+  color: $body-foreground;
+  height: 100vh;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+
 /* General & 'Reset' Stuff */
 
 .container {
@@ -92,6 +101,8 @@ header h2 {
   text-align: center;
   margin: 0;
 }
+
+
 
 /* Main Content
 */
