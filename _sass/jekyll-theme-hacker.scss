@@ -20,17 +20,15 @@ $container-max-width: 1000px;
 
 body {
   margin: 0;
-  padding: 0;
   background: $body-background url("../images/bkg.png") 0 0;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  display: flex;
 }
 
 aside {
-  width: 250px;
+  width: 20%;
   background: $body-background url("../images/bkg.png") 0 0;
   color: $body-foreground;
   height: 100vh; /* Vollbildhöhe */
