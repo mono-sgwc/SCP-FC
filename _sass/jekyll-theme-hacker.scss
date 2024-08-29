@@ -16,6 +16,7 @@ $container-max-width: 1000px;
 
 .main_content {
   display: flex;
+  flex-grow: 1;
 }
 
 body {
@@ -25,6 +26,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  display: flex;
 }
 
 a {
