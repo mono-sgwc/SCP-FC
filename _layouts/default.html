@@ -275,11 +275,31 @@
             document.title = title;
         });
     </script>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            display: flex;
+        }
+    </style>
   </head>
   
 {% seo %}
   </head>
-
+  <aside>
+    <h2>sidebar</h2>
+    <p>test</p>
+    <details>
+        <summary>summary</summary>
+        <ul>
+            <li><a href="#">Link 1</a></li>
+            <li><a href="#">Link 2</a></li>
+            <li><a href="#">Link 3</a></li>
+            <li><a href="#">Link 4</a></li>
+        </ul>
+    </details>
+    <iframe src="https://ptb.discord.com/widget?id=1166418158085734441&theme=dark" align="center" width="300" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</aside>
   <body>
     <header>
       <div class="container">
@@ -298,20 +318,6 @@
     </header>
     <div class="container">
       <section id="main_content">
-        <aside>
-            <h2>sidebar</h2>
-            <p>test</p>
-            <details>
-                <summary>summary</summary>
-                <ul>
-                    <li><a href="#">Link 1</a></li>
-                    <li><a href="#">Link 2</a></li>
-                    <li><a href="#">Link 3</a></li>
-                    <li><a href="#">Link 4</a></li>
-                </ul>
-            </details>
-            <iframe src="https://ptb.discord.com/widget?id=1166418158085734441&theme=dark" align="center" width="300" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-        </aside>
         {{ content }}
       </section>
     </div>
