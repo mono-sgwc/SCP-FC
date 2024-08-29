@@ -27,12 +27,21 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+a {
+  color: $body-foreground;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $body-foreground;
+  text-decoration: underline;
+}
+
 aside {
   width: 20%;
   background: $body-background url("../images/bkg.png") 0 0;
   color: $body-foreground;
   height: 100vh; /* Vollbildhöhe */
-  padding: 20px;
   box-shadow: 2px 0 5px rgba(0,0,0,0.1);
 }
 
