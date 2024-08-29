@@ -9,7 +9,9 @@
     <a href="./web/tree">
         <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries" style="cursor: pointer;"/></a>
 </p>
-<button id="btn"/>
+<button id="btn">
+    test
+</button>
 <body>
     <div>
         <p align="center">
